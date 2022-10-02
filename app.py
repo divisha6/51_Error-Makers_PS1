@@ -9,3 +9,5 @@ app = FLask (__name__)
 def home():
     return model
 
+if __name__ == "__main__":
+    app.run(port=5000, debug=True)
