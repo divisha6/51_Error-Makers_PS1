@@ -18,8 +18,8 @@ recordRoutes.route("/FindJobs").post(function (req, res) {
     let financial_situation=req.body.financial_situation
     let age=req.body.age
 
-    db_connect.collection("Survey").find({age:age, income:financial_situation,education:education,employment_status:employment_status}).toArray().then((arr)=>{
-        console.log(arr);
+    db_connect.collection("Survey").find({"age":age, "income":financial_situation,"education":education}).toArray().then((arr)=>{
+        res.send(arr);
     })
 })
 
