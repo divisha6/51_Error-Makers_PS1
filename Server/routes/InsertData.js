@@ -11,10 +11,6 @@ const dbo = require("../db/conn");
 // This help convert the id from string to ObjectId for the _id.
 const ObjectId = require("mongodb").ObjectId;
 
-const Cryptr = require('cryptr');
-const cryptr = new Cryptr('myTotallySecretKey');
-
-const { createHash, publicDecrypt } = require('crypto');
 
 
 
@@ -37,7 +33,7 @@ recordRoutes.route("/InsertData").post(function (req, res) {
     else out="success"
     console.log("1 document inserted");
   })
-  res.send("success")
+  res.send({age:age,financial_situation:financial_situation,education:education,employment_status:employment_status})
 })
   
 

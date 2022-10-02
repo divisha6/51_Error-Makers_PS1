@@ -32,10 +32,7 @@ function FormComponent(props) {
       employmentStatus:employmentStatus,
       state:state
     }).then((res) => {
-        if(res.data=="success")
-        {
-          navigate("/AvailableJobs")
-        }
+        navigate("/AvailableJobs",{state:{age:res.data.age,financial_situation:res.data.financial_situation,education:res.data.education,employment_status:res.data.employment_status}})
     })
 
 
