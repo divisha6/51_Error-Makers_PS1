@@ -32,15 +32,9 @@ function JobsInfo() {
         </div>
 
         <div>
-         {jobs.map((job)=>{
-          {
-            <p>
-              {job.jobs}
-            </p>
-          }
-         })
-
-         }
+        { jobs.map((item,index) => 
+            <h1>{item.jobs}</h1>
+        )}
         </div>
     </div>
   )
