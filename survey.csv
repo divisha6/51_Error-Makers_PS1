@@ -1,0 +1,1565 @@
+gender,age,income,education,employment_status,jobs,submission_state
+0,63,7000,9,0,Teach what you're good at!,Andhra Pradesh
+0,64,7000,9,0,Teach what you're good at!,Andhra Pradesh
+0,65,7000,9,0,Teach what you're good at!,Uttar Pradesh
+0,66,7000,9,0,Teach what you're good at!,Uttar Pradesh
+0,67,7000,9,0,Teach what you're good at!,Meghalaya
+0,68,5000,9,0,Work at a nearby library,Andhra Pradesh
+0,69,5000,9,0,Work at a nearby library,Kashmir
+0,70,12000,9,0,Tutor kids at home,Gujarat
+0,71,25000,9,0,Volunteer at local NGOs,Maharashtra
+0,72,2000,9,0,Apply to these jobs:,Gujarat
+0,73,2000,9,0,Apply to these jobs:,Maharashtra
+0,46,2000,9,0,Apply to these jobs:,Maharashtra
+0,25,2000,9,0,Apply to these jobs:,Telangana
+0,16,2000,9,0,Apply to these jobs:,Uttar Pradesh
+1,16,7000,9,0,Teach what you're good at!,Gujarat
+1,25,5000,9,0,Work at a nearby library,Maharashtra
+1,16,2000,9,0,Apply to these jobs:,Uttar Pradesh
+1,17,2000,9,0,Apply to these jobs:,Orissa
+1,18,2000,9,0,Apply to these jobs:,Orissa
+0,31,7000,9,1,Teach what you're good at!,Kerala
+0,32,7000,9,1,Teach what you're good at!,Tamil Nadu
+0,33,5000,9,1,Work at a nearby library,Telangana
+0,34,5000,9,1,Work at a nearby library,Maharashtra
+1,30,5000,9,1,Work at a nearby library,Punjab
+1,31,5000,9,1,Work at a nearby library,Andhra Pradesh
+1,32,2000,9,1,Apply to these jobs:,Maharashtra
+1,33,2000,9,1,Apply to these jobs:,Madhya Pradesh
+0,16,7000,9,1,Teach what you're good at!,Gujarat
+0,25,5000,9,1,Work at a nearby library,Uttar Pradesh
+0,16,5000,9,1,Work at a nearby library,Karnataka
+0,17,25000,9,1,Volunteer at local NGOs,Barinas
+0,18,2000,9,1,Apply to these jobs:,Gujarat
+1,21,5000,9,1,Work at a nearby library,Delhi
+1,20,2000,9,1,Apply to these jobs:,Telangana
+0,55,8000,9,2,Teach what you're good at!,Gujarat
+0,61,5000,9,2,Work at a nearby library,Andhra Pradesh
+0,46,25000,9,2,Volunteer at local NGOs,Gujarat
+0,29,7000,9,2,Teach what you're good at!,Telangana
+0,30,7000,9,2,Teach what you're good at!,Himachal Pradesh
+0,31,7000,9,2,Teach what you're good at!,Telangana
+0,32,7000,9,2,Teach what you're good at!,Meghalaya
+0,33,5000,9,2,Work at a nearby library,Uttar Pradesh
+0,34,5000,9,2,Work at a nearby library,Uttar Pradesh
+0,26,5000,9,2,Work at a nearby library,Andhra Pradesh
+0,27,5000,9,2,Work at a nearby library,Maharashtra
+0,28,5000,9,2,Work at a nearby library,Andhra Pradesh
+0,29,5000,9,2,Work at a nearby library,Maharashtra
+0,30,5000,9,2,Work at a nearby library,Maharashtra
+0,31,2000,9,2,Apply to these jobs:,Andhra Pradesh
+0,32,2000,9,2,Apply to these jobs:,Gujarat
+0,33,2000,9,2,Apply to these jobs:,Delhi
+0,25,7000,9,2,Teach what you're good at!,Kashmir
+0,16,5000,9,2,Work at a nearby library,Maharashtra
+0,17,2000,9,2,Apply to these jobs:,Gujarat
+1,18,5000,9,2,Work at a nearby library,Meghalaya
+1,19,5000,9,2,Work at a nearby library,Maharashtra
+1,20,5000,9,2,Work at a nearby library,Assam
+0,57,7000,9,3,Teach what you're good at!,Uttar Pradesh
+0,58,7000,9,3,Teach what you're good at!,Kashmir
+0,59,7000,9,3,Teach what you're good at!,Delhi
+0,60,7000,9,3,Teach what you're good at!,Maharashtra
+0,61,7000,9,3,Teach what you're good at!,Maharashtra
+0,62,7000,9,3,Teach what you're good at!,Madhya Pradesh
+0,63,7000,9,3,Teach what you're good at!,Delhi
+0,64,7000,9,3,Teach what you're good at!,Gujarat
+0,65,7000,9,3,Teach what you're good at!,Gujarat
+0,66,7000,9,3,Teach what you're good at!,Himachal Pradesh
+0,67,7000,9,3,Teach what you're good at!,Meghalaya
+0,68,5000,9,3,Work at a nearby library,Himachal Pradesh
+0,69,5000,9,3,Work at a nearby library,Telangana
+0,70,5000,9,3,Work at a nearby library,Andhra Pradesh
+0,71,5000,9,3,Work at a nearby library,Andhra Pradesh
+0,72,5000,9,3,Work at a nearby library,Madhya Pradesh
+0,73,5000,9,3,Work at a nearby library,Gujarat
+0,46,5000,9,3,Work at a nearby library,Meghalaya
+0,45,5000,9,3,Work at a nearby library,Uttar Pradesh
+0,45,5000,9,3,Work at a nearby library,Himachal Pradesh
+0,45,5000,9,3,Work at a nearby library,Uttar Pradesh
+0,47,5000,9,3,Work at a nearby library,Uttar Pradesh
+0,46,5000,9,3,Work at a nearby library,Maharashtra
+0,49,5000,9,3,Work at a nearby library,Madhya Pradesh
+0,53,5000,9,3,Work at a nearby library,Madhya Pradesh
+0,55,5000,9,3,Work at a nearby library,Madhya Pradesh
+0,61,12000,9,3,Tutor kids at home,Gujarat
+0,46,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Andhra Pradesh
+0,47,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Uttar Pradesh
+0,78,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Rajasthan
+0,52,2000,9,3,Apply to these jobs:,Punjab
+0,56,2000,9,3,Apply to these jobs:,Maharashtra
+0,57,2000,9,3,Apply to these jobs:,Uttarakhand
+0,58,2000,9,3,Apply to these jobs:,Telangana
+0,59,2000,9,3,Apply to these jobs:,Andhra Pradesh
+0,60,2000,9,3,Apply to these jobs:,Uttar Pradesh
+0,61,2000,9,3,Apply to these jobs:,Gujarat
+0,62,2000,9,3,Apply to these jobs:,Himachal Pradesh
+0,63,2000,9,3,Apply to these jobs:,Delhi
+0,64,2000,9,3,Apply to these jobs:,Orissa
+0,65,2000,9,3,Apply to these jobs:,Madhya Pradesh
+0,44,7000,9,3,Teach what you're good at!,Uttar Pradesh
+0,43,7000,9,3,Teach what you're good at!,Telangana
+0,42,7000,9,3,Teach what you're good at!,Andhra Pradesh
+0,41,7000,9,3,Teach what you're good at!,Himachal Pradesh
+0,40,7000,9,3,Teach what you're good at!,Uttar Pradesh
+0,39,7000,9,3,Teach what you're good at!,Telangana
+0,38,7000,9,3,Teach what you're good at!,Uttar Pradesh
+0,37,7000,9,3,Teach what you're good at!,Karnataka
+0,36,7000,9,3,Teach what you're good at!,Uttar Pradesh
+0,35,7000,9,3,Teach what you're good at!,Himachal Pradesh
+0,36,7000,9,3,Teach what you're good at!,Andhra Pradesh
+0,37,7000,9,3,Teach what you're good at!,Himachal Pradesh
+0,38,7000,9,3,Teach what you're good at!,Uttar Pradesh
+0,39,7000,9,3,Teach what you're good at!,Delhi
+0,40,7000,9,3,Teach what you're good at!,Maharashtra
+0,41,7000,9,3,Teach what you're good at!,Andhra Pradesh
+0,42,7000,9,3,Teach what you're good at!,Andhra Pradesh
+0,43,7000,9,3,Teach what you're good at!,Maharashtra
+0,44,7000,9,3,Teach what you're good at!,Maharashtra
+0,44,7000,9,3,Teach what you're good at!,Delhi
+0,43,7000,9,3,Teach what you're good at!,Gujarat
+0,42,7000,9,3,Teach what you're good at!,Himachal Pradesh
+0,41,7000,9,3,Teach what you're good at!,Orissa
+0,40,5000,9,3,Work at a nearby library,Uttar Pradesh
+0,39,5000,9,3,Work at a nearby library,West Bengal
+0,38,5000,9,3,Work at a nearby library,Himachal Pradesh
+0,37,5000,9,3,Work at a nearby library,Andhra Pradesh
+0,36,5000,9,3,Work at a nearby library,Andhra Pradesh
+0,35,5000,9,3,Work at a nearby library,West Bengal
+0,36,5000,9,3,Work at a nearby library,Andhra Pradesh
+0,37,5000,9,3,Work at a nearby library,Andhra Pradesh
+0,38,5000,9,3,Work at a nearby library,Maharashtra
+0,39,5000,9,3,Work at a nearby library,Kashmir
+0,40,5000,9,3,Work at a nearby library,Karnataka
+0,41,5000,9,3,Work at a nearby library,Meghalaya
+0,42,5000,9,3,Work at a nearby library,Maharashtra
+0,43,5000,9,3,Work at a nearby library,Gujarat
+0,44,5000,9,3,Work at a nearby library,Uttar Pradesh
+0,44,5000,9,3,Work at a nearby library,Uttar Pradesh
+0,43,5000,9,3,Work at a nearby library,Assam
+0,42,5000,9,3,Work at a nearby library,Andhra Pradesh
+0,41,5000,9,3,Work at a nearby library,Gujarat
+0,40,5000,9,3,Work at a nearby library,Assam
+0,39,5000,9,3,Work at a nearby library,Andhra Pradesh
+0,38,5000,9,3,Work at a nearby library,Maharashtra
+0,37,5000,9,3,Work at a nearby library,Uttar Pradesh
+0,36,5000,9,3,Work at a nearby library,Maharashtra
+0,35,5000,9,3,Work at a nearby library,Gujarat
+0,36,5000,9,3,Work at a nearby library,Maharashtra
+0,37,5000,9,3,Work at a nearby library,West Bengal
+0,38,5000,9,3,Work at a nearby library,West Bengal
+0,39,5000,9,3,Work at a nearby library,Assam
+0,40,5000,9,3,Work at a nearby library,Maharashtra
+0,41,5000,9,3,Work at a nearby library,Tamil Nadu
+0,42,5000,9,3,Work at a nearby library,Himachal Pradesh
+0,43,5000,9,3,Work at a nearby library,Haryana
+0,44,5000,9,3,Work at a nearby library,Uttarakhand
+0,44,5000,9,3,Work at a nearby library,Gujarat
+0,43,5000,9,3,Work at a nearby library,Orissa
+0,42,12000,9,3,Tutor kids at home,Uttar Pradesh
+0,41,12000,9,3,Tutor kids at home,Rajasthan
+0,40,12000,9,3,Tutor kids at home,Bihar
+0,39,12000,9,3,Tutor kids at home,Himachal Pradesh
+0,38,12000,9,3,Tutor kids at home,Uttar Pradesh
+0,37,12000,9,3,Tutor kids at home,Andhra Pradesh
+0,36,12000,9,3,Tutor kids at home,Meghalaya
+0,35,12000,9,3,Tutor kids at home,Madhya Pradesh
+0,36,25000,9,3,Volunteer at local NGOs,Gujarat
+0,37,25000,9,3,Volunteer at local NGOs,Madhya Pradesh
+0,38,25000,9,3,Volunteer at local NGOs,Madhya Pradesh
+0,39,25000,9,3,Volunteer at local NGOs,Telangana
+0,40,25000,9,3,Volunteer at local NGOs,Bihar
+0,41,25000,9,3,Volunteer at local NGOs,Uttar Pradesh
+0,42,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Madhya Pradesh
+0,43,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Andhra Pradesh
+0,44,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Maharashtra
+0,44,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Uttarakhand
+0,43,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Andhra Pradesh
+0,42,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Maharashtra
+0,41,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Uttarakhand
+0,40,2000,9,3,Apply to these jobs:,Maharashtra
+0,39,2000,9,3,Apply to these jobs:,Uttar Pradesh
+0,38,2000,9,3,Apply to these jobs:,Uttar Pradesh
+0,37,2000,9,3,Apply to these jobs:,Maharashtra
+0,36,2000,9,3,Apply to these jobs:,Maharashtra
+0,35,2000,9,3,Apply to these jobs:,Gujarat
+0,36,2000,9,3,Apply to these jobs:,Delhi
+0,37,2000,9,3,Apply to these jobs:,Maharashtra
+0,38,2000,9,3,Apply to these jobs:,Karnataka
+0,39,2000,9,3,Apply to these jobs:,Meghalaya
+0,40,2000,9,3,Apply to these jobs:,Maharashtra
+0,41,2000,9,3,Apply to these jobs:,Delhi
+0,42,2000,9,3,Apply to these jobs:,Andhra Pradesh
+0,43,2000,9,3,Apply to these jobs:,Orissa
+0,44,2000,9,3,Apply to these jobs:,Delhi
+0,44,2000,9,3,Apply to these jobs:,Andhra Pradesh
+0,43,2000,9,3,Apply to these jobs:,Gujarat
+0,42,2000,9,3,Apply to these jobs:,Maharashtra
+0,41,2000,9,3,Apply to these jobs:,Gujarat
+0,40,2000,9,3,Apply to these jobs:,Madhya Pradesh
+1,44,7000,9,3,Teach what you're good at!,Uttarakhand
+1,44,7000,9,3,Teach what you're good at!,Uttar Pradesh
+1,43,7000,9,3,Teach what you're good at!,Telangana
+1,42,7000,9,3,Teach what you're good at!,Andhra Pradesh
+1,41,7000,9,3,Teach what you're good at!,Andhra Pradesh
+1,40,7000,9,3,Teach what you're good at!,Uttar Pradesh
+1,39,7000,9,3,Teach what you're good at!,Andhra Pradesh
+1,38,7000,9,3,Teach what you're good at!,Andhra Pradesh
+1,37,7000,9,3,Teach what you're good at!,Gujarat
+1,36,7000,9,3,Teach what you're good at!,Haryana
+1,35,7000,9,3,Teach what you're good at!,Karnataka
+1,36,7000,9,3,Teach what you're good at!,Maharashtra
+1,37,7000,9,3,Teach what you're good at!,Himachal Pradesh
+1,38,7000,9,3,Teach what you're good at!,Himachal Pradesh
+1,39,7000,9,3,Teach what you're good at!,Andhra Pradesh
+1,40,7000,9,3,Teach what you're good at!,Gujarat
+1,41,7000,9,3,Teach what you're good at!,Gujarat
+1,42,7000,9,3,Teach what you're good at!,Uttar Pradesh
+1,43,7000,9,3,Teach what you're good at!,Telangana
+1,44,7000,9,3,Teach what you're good at!,Gujarat
+1,44,7000,9,3,Teach what you're good at!,Maharashtra
+1,43,7000,9,3,Teach what you're good at!,Maharashtra
+1,42,7000,9,3,Teach what you're good at!,Madhya Pradesh
+1,41,7000,9,3,Teach what you're good at!,Gujarat
+1,40,7000,9,3,Teach what you're good at!,Maharashtra
+1,39,7000,9,3,Teach what you're good at!,Kerala
+1,38,7000,9,3,Teach what you're good at!,Madhya Pradesh
+1,37,7000,9,3,Teach what you're good at!,Himachal Pradesh
+1,36,5000,9,3,Work at a nearby library,West Bengal
+1,35,5000,9,3,Work at a nearby library,Gujarat
+1,36,5000,9,3,Work at a nearby library,Uttar Pradesh
+1,37,5000,9,3,Work at a nearby library,Maharashtra
+1,38,5000,9,3,Work at a nearby library,Maharashtra
+1,39,5000,9,3,Work at a nearby library,Madhya Pradesh
+1,40,5000,9,3,Work at a nearby library,Himachal Pradesh
+1,41,5000,9,3,Work at a nearby library,Maharashtra
+1,42,5000,9,3,Work at a nearby library,Maharashtra
+1,43,5000,9,3,Work at a nearby library,Himachal Pradesh
+1,44,5000,9,3,Work at a nearby library,Maharashtra
+1,44,5000,9,3,Work at a nearby library,Tamil Nadu
+1,43,12000,9,3,Tutor kids at home,Rajasthan
+1,42,12000,9,3,Tutor kids at home,Uttar Pradesh
+1,41,12000,9,3,Tutor kids at home,Uttarakhand
+1,40,12000,9,3,Tutor kids at home,Himachal Pradesh
+1,39,12000,9,3,Tutor kids at home,Karnataka
+1,38,12000,9,3,Tutor kids at home,Haryana
+1,37,12000,9,3,Tutor kids at home,Tamil Nadu
+1,36,12000,9,3,Tutor kids at home,Gujarat
+1,35,25000,9,3,Volunteer at local NGOs,Himachal Pradesh
+1,36,25000,9,3,Volunteer at local NGOs,Andhra Pradesh
+1,37,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Delhi
+1,38,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Telangana
+1,39,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Himachal Pradesh
+1,40,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Maharashtra
+1,41,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Andhra Pradesh
+1,42,2000,9,3,Apply to these jobs:,Madhya Pradesh
+1,43,2000,9,3,Apply to these jobs:,Telangana
+1,44,2000,9,3,Apply to these jobs:,Madhya Pradesh
+1,44,2000,9,3,Apply to these jobs:,Karnataka
+1,33,7000,9,3,Teach what you're good at!,Andhra Pradesh
+1,34,7000,9,3,Teach what you're good at!,Telangana
+1,26,7000,9,3,Teach what you're good at!,Uttar Pradesh
+1,27,7000,9,3,Teach what you're good at!,Maharashtra
+1,28,7000,9,3,Teach what you're good at!,Uttar Pradesh
+1,29,7000,9,3,Teach what you're good at!,Andhra Pradesh
+1,30,7000,9,3,Teach what you're good at!,Andhra Pradesh
+1,31,7000,9,3,Teach what you're good at!,Delhi
+1,32,7000,9,3,Teach what you're good at!,Gujarat
+1,33,7000,9,3,Teach what you're good at!,Gujarat
+1,34,7000,9,3,Teach what you're good at!,Madhya Pradesh
+1,26,7000,9,3,Teach what you're good at!,Delhi
+1,27,7000,9,3,Teach what you're good at!,Telangana
+1,28,7000,9,3,Teach what you're good at!,Delhi
+1,29,7000,9,3,Teach what you're good at!,Himachal Pradesh
+1,30,7000,9,3,Teach what you're good at!,Madhya Pradesh
+1,31,7000,9,3,Teach what you're good at!,Gujarat
+1,32,7000,9,3,Teach what you're good at!,Gujarat
+1,33,7000,9,3,Teach what you're good at!,Maharashtra
+1,34,5000,9,3,Work at a nearby library,Telangana
+1,26,5000,9,3,Work at a nearby library,Uttar Pradesh
+1,27,5000,9,3,Work at a nearby library,Maharashtra
+1,28,5000,9,3,Work at a nearby library,Rajasthan
+1,29,5000,9,3,Work at a nearby library,Maharashtra
+1,30,5000,9,3,Work at a nearby library,Gujarat
+1,31,5000,9,3,Work at a nearby library,Gujarat
+1,32,5000,9,3,Work at a nearby library,Himachal Pradesh
+1,33,5000,9,3,Work at a nearby library,Andhra Pradesh
+1,34,5000,9,3,Work at a nearby library,Maharashtra
+1,26,5000,9,3,Work at a nearby library,Madhya Pradesh
+1,27,5000,9,3,Work at a nearby library,Uttar Pradesh
+1,28,5000,9,3,Work at a nearby library,Himachal Pradesh
+1,29,5000,9,3,Work at a nearby library,Andhra Pradesh
+1,30,5000,9,3,Work at a nearby library,Telangana
+1,31,5000,9,3,Work at a nearby library,Meghalaya
+1,32,5000,9,3,Work at a nearby library,Himachal Pradesh
+1,33,5000,9,3,Work at a nearby library,Gujarat
+1,34,5000,9,3,Work at a nearby library,Andhra Pradesh
+1,26,12000,9,3,Tutor kids at home,Andhra Pradesh
+1,27,12000,9,3,Tutor kids at home,Andhra Pradesh
+1,28,12000,9,3,Tutor kids at home,Telangana
+1,29,12000,9,3,Tutor kids at home,Barinas
+1,30,12000,9,3,Tutor kids at home,Rajasthan
+1,31,12000,9,3,Tutor kids at home,Himachal Pradesh
+1,32,12000,9,3,Tutor kids at home,Telangana
+1,33,25000,9,3,Volunteer at local NGOs,Himachal Pradesh
+1,34,25000,9,3,Volunteer at local NGOs,Meghalaya
+1,26,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Telangana
+1,27,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Andhra Pradesh
+1,28,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Meghalaya
+1,29,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Maharashtra
+1,30,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Tamil Nadu
+1,31,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Madhya Pradesh
+1,32,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Madhya Pradesh
+1,33,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Meghalaya
+1,34,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Orissa
+1,26,2000,9,3,Apply to these jobs:,Delhi
+1,27,2000,9,3,Apply to these jobs:,Uttar Pradesh
+1,28,2000,9,3,Apply to these jobs:,Telangana
+1,29,2000,9,3,Apply to these jobs:,Andhra Pradesh
+1,30,2000,9,3,Apply to these jobs:,Punjab
+1,31,2000,9,3,Apply to these jobs:,Madhya Pradesh
+1,32,2000,9,3,Apply to these jobs:,Uttarakhand
+1,33,2000,9,3,Apply to these jobs:,Gujarat
+1,34,2000,9,3,Apply to these jobs:,Uttar Pradesh
+1,26,2000,9,3,Apply to these jobs:,Madhya Pradesh
+1,27,2000,9,3,Apply to these jobs:,Madhya Pradesh
+1,28,2000,9,3,Apply to these jobs:,Kashmir
+1,29,2000,9,3,Apply to these jobs:,Kashmir
+1,30,2000,9,3,Apply to these jobs:,Bihar
+1,31,2000,9,3,Apply to these jobs:,Himachal Pradesh
+1,32,2000,9,3,Apply to these jobs:,Delhi
+1,33,2000,9,3,Apply to these jobs:,Assam
+0,19,5000,9,3,Work at a nearby library,Andhra Pradesh
+0,20,5000,9,3,Work at a nearby library,Delhi
+0,21,5000,9,3,Work at a nearby library,Andhra Pradesh
+0,22,5000,9,3,Work at a nearby library,Tamil Nadu
+0,23,5000,9,3,Work at a nearby library,Himachal Pradesh
+0,24,5000,9,3,Work at a nearby library,Uttarakhand
+0,24,12000,9,3,Tutor kids at home,Madhya Pradesh
+0,23,2000,9,3,Apply to these jobs:,Gujarat
+0,22,2000,9,3,Apply to these jobs:,Gujarat
+1,23,5000,9,3,Work at a nearby library,Gujarat
+1,24,12000,9,3,Tutor kids at home,Uttar Pradesh
+1,24,25000,9,3,Volunteer at local NGOs,Gujarat
+1,23,15000,9,3,Volunteer at local NGOs/apply to these jobs:,Uttar Pradesh
+1,22,2000,9,3,Apply to these jobs:,Maharashtra
+1,21,2000,9,3,Apply to these jobs:,Gujarat
+1,20,2000,9,3,Apply to these jobs:,Telangana
+1,19,2000,9,3,Apply to these jobs:,Telangana
+0,67,7000,9,4,Teach what you're good at!,Uttar Pradesh
+0,68,7000,9,4,Teach what you're good at!,Uttar Pradesh
+0,69,7000,9,4,Teach what you're good at!,Andhra Pradesh
+0,70,7000,9,4,Teach what you're good at!,Andhra Pradesh
+0,71,7000,9,4,Teach what you're good at!,Maharashtra
+0,72,7000,9,4,Teach what you're good at!,Gujarat
+0,73,7000,9,4,Teach what you're good at!,Rajasthan
+0,46,7000,9,4,Teach what you're good at!,Rajasthan
+0,45,7000,9,4,Teach what you're good at!,Uttar Pradesh
+0,45,7000,9,4,Teach what you're good at!,Uttar Pradesh
+0,45,7000,9,4,Teach what you're good at!,Delhi
+0,47,7000,9,4,Teach what you're good at!,Andhra Pradesh
+0,46,7000,9,4,Teach what you're good at!,Meghalaya
+0,49,7000,9,4,Teach what you're good at!,Meghalaya
+0,53,7000,9,4,Teach what you're good at!,Madhya Pradesh
+0,55,5000,9,4,Work at a nearby library,Uttar Pradesh
+0,61,5000,9,4,Work at a nearby library,Andhra Pradesh
+0,46,5000,9,4,Work at a nearby library,Bihar
+0,47,5000,9,4,Work at a nearby library,Gujarat
+0,78,5000,9,4,Work at a nearby library,Gujarat
+0,52,5000,9,4,Work at a nearby library,Madhya Pradesh
+0,56,5000,9,4,Work at a nearby library,Madhya Pradesh
+0,57,5000,9,4,Work at a nearby library,Andhra Pradesh
+0,58,5000,9,4,Work at a nearby library,Uttar Pradesh
+0,59,5000,9,4,Work at a nearby library,Uttar Pradesh
+0,60,5000,9,4,Work at a nearby library,Andhra Pradesh
+0,61,5000,9,4,Work at a nearby library,Uttar Pradesh
+0,62,5000,9,4,Work at a nearby library,West Bengal
+0,63,5000,9,4,Work at a nearby library,Andhra Pradesh
+0,64,5000,9,4,Work at a nearby library,Maharashtra
+0,65,5000,9,4,Work at a nearby library,Madhya Pradesh
+0,66,12000,9,4,Tutor kids at home,Andhra Pradesh
+0,67,12000,9,4,Tutor kids at home,Himachal Pradesh
+0,68,25000,9,4,Volunteer at local NGOs,Himachal Pradesh
+0,69,2000,9,4,Apply to these jobs:,Maharashtra
+0,70,2000,9,4,Apply to these jobs:,Andhra Pradesh
+0,71,2000,9,4,Apply to these jobs:,Andhra Pradesh
+0,72,2000,9,4,Apply to these jobs:,Tamil Nadu
+0,73,2000,9,4,Apply to these jobs:,Meghalaya
+0,46,2000,9,4,Apply to these jobs:,Uttar Pradesh
+0,45,2000,9,4,Apply to these jobs:,Andhra Pradesh
+0,45,2000,9,4,Apply to these jobs:,Delhi
+0,47,2000,9,4,Apply to these jobs:,Maharashtra
+1,49,7000,9,4,Teach what you're good at!,Uttar Pradesh
+1,53,7000,9,4,Teach what you're good at!,Telangana
+1,55,7000,9,4,Teach what you're good at!,Maharashtra
+1,61,7000,9,4,Teach what you're good at!,Karnataka
+1,46,7000,9,4,Teach what you're good at!,Maharashtra
+1,47,7000,9,4,Teach what you're good at!,Gujarat
+1,78,7000,9,4,Teach what you're good at!,Uttarakhand
+1,52,7000,9,4,Teach what you're good at!,Andhra Pradesh
+1,56,7000,9,4,Teach what you're good at!,Maharashtra
+1,57,7000,9,4,Teach what you're good at!,Delhi
+1,58,7000,9,4,Teach what you're good at!,Madhya Pradesh
+1,59,5000,9,4,Work at a nearby library,Andhra Pradesh
+1,60,5000,9,4,Work at a nearby library,Himachal Pradesh
+1,61,5000,9,4,Work at a nearby library,Andhra Pradesh
+1,62,5000,9,4,Work at a nearby library,Himachal Pradesh
+1,63,5000,9,4,Work at a nearby library,Maharashtra
+1,64,5000,9,4,Work at a nearby library,Gujarat
+1,65,5000,9,4,Work at a nearby library,Gujarat
+1,66,5000,9,4,Work at a nearby library,Himachal Pradesh
+1,67,12000,9,4,Tutor kids at home,Telangana
+1,68,12000,9,4,Tutor kids at home,Andhra Pradesh
+1,69,12000,9,4,Tutor kids at home,Kashmir
+1,70,25000,9,4,Volunteer at local NGOs,Uttar Pradesh
+1,71,25000,9,4,Volunteer at local NGOs,Maharashtra
+1,72,25000,9,4,Volunteer at local NGOs,Tamil Nadu
+1,73,25000,9,4,Volunteer at local NGOs,Tamil Nadu
+1,46,2000,9,4,Apply to these jobs:,Maharashtra
+1,45,2000,9,4,Apply to these jobs:,Andhra Pradesh
+1,36,25000,9,4,Volunteer at local NGOs,Andhra Pradesh
+1,37,15000,9,4,Volunteer at local NGOs/apply to these jobs:,Kashmir
+1,38,15000,9,4,Volunteer at local NGOs/apply to these jobs:,Uttar Pradesh
+1,39,2000,9,4,Apply to these jobs:,Uttar Pradesh
+1,40,2000,9,4,Apply to these jobs:,Uttar Pradesh
+0,23,7000,9,4,Teach what you're good at!,Uttar Pradesh
+0,24,7000,9,4,Teach what you're good at!,Karnataka
+0,24,5000,9,4,Work at a nearby library,Kashmir
+0,23,12000,9,4,Tutor kids at home,Delhi
+0,22,25000,9,4,Volunteer at local NGOs,Uttar Pradesh
+0,21,25000,9,4,Volunteer at local NGOs,Madhya Pradesh
+0,20,25000,9,4,Volunteer at local NGOs,Madhya Pradesh
+1,24,7000,9,4,Teach what you're good at!,Uttar Pradesh
+1,23,7000,9,4,Teach what you're good at!,Assam
+1,22,7000,9,4,Teach what you're good at!,Madhya Pradesh
+1,21,7000,9,4,Teach what you're good at!,Maharashtra
+1,20,5000,9,4,Work at a nearby library,Uttar Pradesh
+1,19,5000,9,4,Work at a nearby library,Maharashtra
+1,18,25000,9,4,Volunteer at local NGOs,Telangana
+1,17,25000,9,4,Volunteer at local NGOs,Delhi
+1,16,25000,9,4,Volunteer at local NGOs,West Bengal
+1,25,2000,9,4,Apply to these jobs:,Haryana
+0,66,7000,9,6,Teach what you're good at!,Madhya Pradesh
+0,67,7000,9,6,Teach what you're good at!,Uttar Pradesh
+0,68,7000,9,6,Teach what you're good at!,Madhya Pradesh
+0,69,7000,9,6,Teach what you're good at!,Maharashtra
+0,70,5000,9,6,Work at a nearby library,Madhya Pradesh
+0,71,5000,9,6,Work at a nearby library,Maharashtra
+0,72,5000,9,6,Work at a nearby library,Maharashtra
+0,73,5000,9,6,Work at a nearby library,Bihar
+0,46,2000,9,6,Apply to these jobs:,Andhra Pradesh
+0,45,2000,9,6,Apply to these jobs:,Andhra Pradesh
+0,45,2000,9,6,Apply to these jobs:,Uttar Pradesh
+0,47,2000,9,6,Apply to these jobs:,Madhya Pradesh
+0,18,5000,9,6,Work at a nearby library,Telangana
+0,17,2000,9,6,Apply to these jobs:,Madhya Pradesh
+0,16,2000,9,6,Apply to these jobs:,Maharashtra
+1,21,5000,9,8,Work at a nearby library,Himachal Pradesh
+0,46,7000,10,0,Teach what you're good at!,Gujarat
+0,47,7000,10,0,Teach what you're good at!,Madhya Pradesh
+0,78,7000,10,0,Teach what you're good at!,Himachal Pradesh
+0,52,7000,10,0,Teach what you're good at!,Maharashtra
+0,56,5000,10,0,Work at a nearby library,Gujarat
+0,57,5000,10,0,Work at a nearby library,Uttar Pradesh
+0,58,5000,10,0,Work at a nearby library,Karnataka
+0,59,5000,10,0,Work at a nearby library,Meghalaya
+0,60,2000,10,0,Apply to these jobs:,Madhya Pradesh
+0,61,2000,10,0,Apply to these jobs:,Delhi
+0,62,2000,10,0,Apply to these jobs:,Maharashtra
+0,18,7000,10,0,Teach what you're good at!,Maharashtra
+0,17,2000,10,0,Apply to these jobs:,Uttar Pradesh
+0,16,2000,10,0,Apply to these jobs:,Uttar Pradesh
+1,19,7000,10,0,Teach what you're good at!,Himachal Pradesh
+1,18,7000,10,0,Teach what you're good at!,Telangana
+1,17,5000,10,0,Work at a nearby library,Delhi
+0,27,5000,10,1,Work at a nearby library,Maharashtra
+0,28,5000,10,1,Work at a nearby library,Andhra Pradesh
+0,29,5000,10,1,Work at a nearby library,Telangana
+0,30,5000,10,1,Work at a nearby library,Andhra Pradesh
+1,26,7000,10,1,Teach what you're good at!,Maharashtra
+1,27,5000,10,1,Work at a nearby library,Madhya Pradesh
+1,28,2000,10,1,Apply to these jobs:,Telangana
+1,29,2000,10,1,Apply to these jobs:,Madhya Pradesh
+0,17,7000,10,1,Teach what you're good at!,Kashmir
+1,23,5000,10,1,Work at a nearby library,Himachal Pradesh
+1,22,5000,10,1,Work at a nearby library,Delhi
+0,53,5000,10,2,Work at a nearby library,Madhya Pradesh
+0,32,7000,10,2,Teach what you're good at!,West Bengal
+0,33,7000,10,2,Teach what you're good at!,Madhya Pradesh
+0,34,7000,10,2,Teach what you're good at!,Gujarat
+0,26,5000,10,2,Work at a nearby library,Madhya Pradesh
+0,27,2000,10,2,Apply to these jobs:,Uttar Pradesh
+0,28,2000,10,2,Apply to these jobs:,Gujarat
+1,34,7000,10,2,Teach what you're good at!,Andhra Pradesh
+1,26,5000,10,2,Work at a nearby library,Uttar Pradesh
+1,27,5000,10,2,Work at a nearby library,Andhra Pradesh
+0,19,5000,10,2,Work at a nearby library,Maharashtra
+0,18,12000,10,2,Tutor kids at home,Barinas
+0,17,25000,10,2,Volunteer at local NGOs,Himachal Pradesh
+0,16,25000,10,2,Volunteer at local NGOs,Maharashtra
+1,16,7000,10,2,Teach what you're good at!,Maharashtra
+1,25,5000,10,2,Work at a nearby library,Maharashtra
+1,16,2000,10,2,Apply to these jobs:,Maharashtra
+1,17,2000,10,2,Apply to these jobs:,Delhi
+0,69,7000,10,3,Teach what you're good at!,Uttarakhand
+0,70,7000,10,3,Teach what you're good at!,Maharashtra
+0,71,7000,10,3,Teach what you're good at!,Uttar Pradesh
+0,72,7000,10,3,Teach what you're good at!,Uttar Pradesh
+0,73,7000,10,3,Teach what you're good at!,Andhra Pradesh
+0,46,7000,10,3,Teach what you're good at!,Andhra Pradesh
+0,45,7000,10,3,Teach what you're good at!,Meghalaya
+0,45,5000,10,3,Work at a nearby library,Andhra Pradesh
+0,47,5000,10,3,Work at a nearby library,Himachal Pradesh
+0,46,5000,10,3,Work at a nearby library,Gujarat
+0,49,5000,10,3,Work at a nearby library,Delhi
+0,53,5000,10,3,Work at a nearby library,Uttar Pradesh
+0,55,5000,10,3,Work at a nearby library,Maharashtra
+0,61,5000,10,3,Work at a nearby library,Tamil Nadu
+0,46,5000,10,3,Work at a nearby library,Himachal Pradesh
+0,47,12000,10,3,Tutor kids at home,Uttar Pradesh
+0,78,12000,10,3,Tutor kids at home,Telangana
+0,52,25000,10,3,Volunteer at local NGOs,Gujarat
+0,56,2000,10,3,Apply to these jobs:,Andhra Pradesh
+0,38,7000,10,3,Teach what you're good at!,Uttar Pradesh
+0,39,7000,10,3,Teach what you're good at!,Andhra Pradesh
+0,40,7000,10,3,Teach what you're good at!,Andhra Pradesh
+0,41,7000,10,3,Teach what you're good at!,Madhya Pradesh
+0,42,7000,10,3,Teach what you're good at!,Andhra Pradesh
+0,43,5000,10,3,Work at a nearby library,Uttar Pradesh
+0,44,5000,10,3,Work at a nearby library,Andhra Pradesh
+0,44,5000,10,3,Work at a nearby library,Andhra Pradesh
+0,43,5000,10,3,Work at a nearby library,Madhya Pradesh
+0,42,5000,10,3,Work at a nearby library,Andhra Pradesh
+0,41,5000,10,3,Work at a nearby library,Andhra Pradesh
+0,40,5000,10,3,Work at a nearby library,Andhra Pradesh
+0,39,5000,10,3,Work at a nearby library,Delhi
+0,38,12000,10,3,Tutor kids at home,Andhra Pradesh
+0,37,12000,10,3,Tutor kids at home,Uttar Pradesh
+0,36,12000,10,3,Tutor kids at home,Himachal Pradesh
+0,35,25000,10,3,Volunteer at local NGOs,Uttar Pradesh
+0,36,15000,10,3,Volunteer at local NGOs/apply to these jobs:,Uttar Pradesh
+0,37,15000,10,3,Volunteer at local NGOs/apply to these jobs:,Uttar Pradesh
+0,38,15000,10,3,Volunteer at local NGOs/apply to these jobs:,Andhra Pradesh
+0,39,2000,10,3,Apply to these jobs:,Telangana
+0,40,2000,10,3,Apply to these jobs:,Haryana
+0,41,2000,10,3,Apply to these jobs:,Maharashtra
+0,42,2000,10,3,Apply to these jobs:,Uttar Pradesh
+0,43,2000,10,3,Apply to these jobs:,Andhra Pradesh
+0,44,2000,10,3,Apply to these jobs:,West Bengal
+1,35,7000,10,3,Teach what you're good at!,Telangana
+1,36,7000,10,3,Teach what you're good at!,Kashmir
+1,37,7000,10,3,Teach what you're good at!,Andhra Pradesh
+1,38,7000,10,3,Teach what you're good at!,Himachal Pradesh
+1,39,7000,10,3,Teach what you're good at!,Uttar Pradesh
+1,40,7000,10,3,Teach what you're good at!,Delhi
+1,41,7000,10,3,Teach what you're good at!,Gujarat
+1,42,7000,10,3,Teach what you're good at!,Uttar Pradesh
+1,43,7000,10,3,Teach what you're good at!,Andhra Pradesh
+1,44,7000,10,3,Teach what you're good at!,Andhra Pradesh
+1,44,7000,10,3,Teach what you're good at!,Andhra Pradesh
+1,43,7000,10,3,Teach what you're good at!,Delta Amacuro
+1,42,7000,10,3,Teach what you're good at!,Madhya Pradesh
+1,41,5000,10,3,Work at a nearby library,Madhya Pradesh
+1,40,5000,10,3,Work at a nearby library,Delhi
+1,39,5000,10,3,Work at a nearby library,Telangana
+1,38,5000,10,3,Work at a nearby library,Uttar Pradesh
+1,37,5000,10,3,Work at a nearby library,Maharashtra
+1,36,5000,10,3,Work at a nearby library,Madhya Pradesh
+1,35,5000,10,3,Work at a nearby library,Gujarat
+1,36,12000,10,3,Tutor kids at home,Andhra Pradesh
+1,37,12000,10,3,Tutor kids at home,Karnataka
+1,38,12000,10,3,Tutor kids at home,Madhya Pradesh
+1,39,25000,10,3,Volunteer at local NGOs,Uttarakhand
+1,40,25000,10,3,Volunteer at local NGOs,Punjab
+1,41,15000,10,3,Volunteer at local NGOs/apply to these jobs:,Andhra Pradesh
+1,42,15000,10,3,Volunteer at local NGOs/apply to these jobs:,Kashmir
+1,43,2000,10,3,Apply to these jobs:,Maharashtra
+1,28,15000,10,3,Volunteer at local NGOs/apply to these jobs:,Andhra Pradesh
+1,29,2000,10,3,Apply to these jobs:,Maharashtra
+1,30,2000,10,3,Apply to these jobs:,Tamil Nadu
+1,31,2000,10,3,Apply to these jobs:,Madhya Pradesh
+1,32,2000,10,3,Apply to these jobs:,Delhi
+0,17,5000,10,3,Work at a nearby library,Madhya Pradesh
+0,16,5000,10,3,Work at a nearby library,Maharashtra
+0,25,5000,10,3,Work at a nearby library,Maharashtra
+0,16,5000,10,3,Work at a nearby library,Gujarat
+0,17,12000,10,3,Tutor kids at home,Gujarat
+0,18,2000,10,3,Apply to these jobs:,Andhra Pradesh
+1,17,7000,10,3,Teach what you're good at!,Andhra Pradesh
+1,18,5000,10,3,Work at a nearby library,Maharashtra
+1,19,5000,10,3,Work at a nearby library,Kashmir
+1,20,25000,10,3,Volunteer at local NGOs,Andhra Pradesh
+1,21,2000,10,3,Apply to these jobs:,Delhi
+1,22,2000,10,3,Apply to these jobs:,Telangana
+0,78,7000,10,4,Teach what you're good at!,Uttar Pradesh
+0,52,7000,10,4,Teach what you're good at!,Uttar Pradesh
+0,56,7000,10,4,Teach what you're good at!,Maharashtra
+0,57,7000,10,4,Teach what you're good at!,Uttar Pradesh
+0,58,7000,10,4,Teach what you're good at!,Gujarat
+0,59,5000,10,4,Work at a nearby library,Maharashtra
+0,60,5000,10,4,Work at a nearby library,Maharashtra
+0,61,5000,10,4,Work at a nearby library,Himachal Pradesh
+0,62,5000,10,4,Work at a nearby library,Gujarat
+0,63,5000,10,4,Work at a nearby library,Maharashtra
+0,64,5000,10,4,Work at a nearby library,Meghalaya
+0,65,5000,10,4,Work at a nearby library,Gujarat
+0,66,25000,10,4,Volunteer at local NGOs,Madhya Pradesh
+1,64,7000,10,4,Teach what you're good at!,Uttar Pradesh
+1,65,7000,10,4,Teach what you're good at!,Himachal Pradesh
+1,66,7000,10,4,Teach what you're good at!,Uttar Pradesh
+1,67,7000,10,4,Teach what you're good at!,Andhra Pradesh
+1,68,7000,10,4,Teach what you're good at!,Maharashtra
+1,69,7000,10,4,Teach what you're good at!,Andhra Pradesh
+1,70,7000,10,4,Teach what you're good at!,Madhya Pradesh
+1,71,7000,10,4,Teach what you're good at!,Delhi
+1,72,7000,10,4,Teach what you're good at!,Madhya Pradesh
+1,73,5000,10,4,Work at a nearby library,Telangana
+1,46,5000,10,4,Work at a nearby library,Maharashtra
+1,45,12000,10,4,Tutor kids at home,Delhi
+1,47,15000,10,4,Volunteer at local NGOs/apply to these jobs:,Andhra Pradesh
+1,46,15000,10,4,Volunteer at local NGOs/apply to these jobs:,Meghalaya
+0,19,5000,10,4,Work at a nearby library,Uttar Pradesh
+0,20,5000,10,4,Work at a nearby library,Uttar Pradesh
+0,21,25000,10,4,Volunteer at local NGOs,Andhra Pradesh
+0,22,25000,10,4,Volunteer at local NGOs,Andhra Pradesh
+1,20,7000,10,4,Teach what you're good at!,Telangana
+1,21,5000,10,4,Work at a nearby library,Uttar Pradesh
+1,22,12000,10,4,Tutor kids at home,Uttar Pradesh
+1,23,25000,10,4,Volunteer at local NGOs,Telangana
+1,24,25000,10,4,Volunteer at local NGOs,Gujarat
+0,63,5000,10,6,Work at a nearby library,Bihar
+0,64,5000,10,6,Work at a nearby library,Maharashtra
+0,65,2000,10,6,Apply to these jobs:,Uttar Pradesh
+0,19,5000,10,6,Work at a nearby library,Uttar Pradesh
+1,45,5000,10,8,Work at a nearby library,Tamil Nadu
+0,53,5000,11,0,Work at a nearby library,Kashmir
+0,55,5000,11,0,Work at a nearby library,Uttar Pradesh
+0,61,5000,11,0,Work at a nearby library,Madhya Pradesh
+0,21,5000,11,0,Work at a nearby library,Madhya Pradesh
+0,20,5000,11,0,Work at a nearby library,Kashmir
+0,19,5000,11,0,Work at a nearby library,Maharashtra
+1,21,7000,11,0,Teach what you're good at!,Gujarat
+1,20,2000,11,0,Apply to these jobs:,Himachal Pradesh
+0,30,5000,11,1,Work at a nearby library,Telangana
+0,31,5000,11,1,Work at a nearby library,Barinas
+0,32,5000,11,1,Work at a nearby library,Delhi
+0,33,15000,11,1,Volunteer at local NGOs/apply to these jobs:,Kashmir
+0,34,2000,11,1,Apply to these jobs:,Maharashtra
+0,26,2000,11,1,Apply to these jobs:,Meghalaya
+1,28,7000,11,1,Teach what you're good at!,Maharashtra
+1,29,5000,11,1,Work at a nearby library,Andhra Pradesh
+1,30,5000,11,1,Work at a nearby library,Telangana
+1,31,5000,11,1,Work at a nearby library,Himachal Pradesh
+1,32,2000,11,1,Apply to these jobs:,Himachal Pradesh
+1,33,2000,11,1,Apply to these jobs:,Uttar Pradesh
+1,34,2000,11,1,Apply to these jobs:,Rajasthan
+0,23,5000,11,1,Work at a nearby library,Telangana
+0,24,5000,11,1,Work at a nearby library,Maharashtra
+0,24,5000,11,1,Work at a nearby library,Maharashtra
+0,23,5000,11,1,Work at a nearby library,Madhya Pradesh
+0,22,12000,11,1,Tutor kids at home,Bihar
+0,21,15000,11,1,Volunteer at local NGOs/apply to these jobs:,West Bengal
+0,20,2000,11,1,Apply to these jobs:,Madhya Pradesh
+0,19,2000,11,1,Apply to these jobs:,Andhra Pradesh
+0,18,2000,11,1,Apply to these jobs:,Delhi
+1,16,7000,11,1,Teach what you're good at!,Gujarat
+1,25,7000,11,1,Teach what you're good at!,Uttar Pradesh
+1,16,7000,11,1,Teach what you're good at!,Himachal Pradesh
+1,17,7000,11,1,Teach what you're good at!,Kashmir
+1,18,5000,11,1,Work at a nearby library,Andhra Pradesh
+1,19,5000,11,1,Work at a nearby library,Uttar Pradesh
+1,20,2000,11,1,Apply to these jobs:,Madhya Pradesh
+1,21,2000,11,1,Apply to these jobs:,Himachal Pradesh
+1,22,2000,11,1,Apply to these jobs:,Madhya Pradesh
+1,23,2000,11,1,Apply to these jobs:,Kashmir
+1,24,2000,11,1,Apply to these jobs:,Telangana
+1,24,2000,11,1,Apply to these jobs:,Maharashtra
+0,32,7000,11,2,Teach what you're good at!,Uttar Pradesh
+0,33,7000,11,2,Teach what you're good at!,Maharashtra
+0,34,7000,11,2,Teach what you're good at!,Himachal Pradesh
+0,26,5000,11,2,Work at a nearby library,Uttarakhand
+0,27,5000,11,2,Work at a nearby library,Himachal Pradesh
+0,28,5000,11,2,Work at a nearby library,Gujarat
+0,29,5000,11,2,Work at a nearby library,Andhra Pradesh
+0,30,5000,11,2,Work at a nearby library,Kashmir
+0,31,5000,11,2,Work at a nearby library,Maharashtra
+0,32,12000,11,2,Tutor kids at home,Kashmir
+0,33,12000,11,2,Tutor kids at home,Delhi
+0,34,12000,11,2,Tutor kids at home,Uttarakhand
+0,26,15000,11,2,Volunteer at local NGOs/apply to these jobs:,Gujarat
+0,27,2000,11,2,Apply to these jobs:,Uttarakhand
+0,28,2000,11,2,Apply to these jobs:,Andhra Pradesh
+0,29,2000,11,2,Apply to these jobs:,Andhra Pradesh
+0,30,2000,11,2,Apply to these jobs:,Uttar Pradesh
+0,31,2000,11,2,Apply to these jobs:,Andhra Pradesh
+1,26,7000,11,2,Teach what you're good at!,West Bengal
+1,27,5000,11,2,Work at a nearby library,Uttar Pradesh
+1,28,5000,11,2,Work at a nearby library,Madhya Pradesh
+1,29,5000,11,2,Work at a nearby library,Madhya Pradesh
+1,30,5000,11,2,Work at a nearby library,Andhra Pradesh
+1,31,5000,11,2,Work at a nearby library,Maharashtra
+1,32,2000,11,2,Apply to these jobs:,Himachal Pradesh
+1,33,2000,11,2,Apply to these jobs:,Maharashtra
+0,17,7000,11,2,Teach what you're good at!,Gujarat
+0,18,7000,11,2,Teach what you're good at!,Uttar Pradesh
+0,19,7000,11,2,Teach what you're good at!,Uttar Pradesh
+0,20,7000,11,2,Teach what you're good at!,Gujarat
+0,21,7000,11,2,Teach what you're good at!,Punjab
+0,22,7000,11,2,Teach what you're good at!,Himachal Pradesh
+0,23,5000,11,2,Work at a nearby library,Gujarat
+0,24,5000,11,2,Work at a nearby library,Telangana
+0,24,5000,11,2,Work at a nearby library,Uttar Pradesh
+0,23,5000,11,2,Work at a nearby library,Meghalaya
+0,22,5000,11,2,Work at a nearby library,Telangana
+0,21,15000,11,2,Volunteer at local NGOs/apply to these jobs:,Maharashtra
+0,20,2000,11,2,Apply to these jobs:,Himachal Pradesh
+1,16,7000,11,2,Teach what you're good at!,Maharashtra
+1,25,7000,11,2,Teach what you're good at!,Rajasthan
+1,16,7000,11,2,Teach what you're good at!,Maharashtra
+1,17,7000,11,2,Teach what you're good at!,Delhi
+1,18,5000,11,2,Work at a nearby library,Andhra Pradesh
+1,19,5000,11,2,Work at a nearby library,Andhra Pradesh
+1,20,5000,11,2,Work at a nearby library,Delhi
+1,21,5000,11,2,Work at a nearby library,Maharashtra
+1,22,5000,11,2,Work at a nearby library,Assam
+1,23,5000,11,2,Work at a nearby library,Maharashtra
+1,24,5000,11,2,Work at a nearby library,Gujarat
+1,24,5000,11,2,Work at a nearby library,Gujarat
+1,23,5000,11,2,Work at a nearby library,Himachal Pradesh
+1,22,5000,11,2,Work at a nearby library,Uttar Pradesh
+1,21,12000,11,2,Tutor kids at home,Delhi
+1,20,12000,11,2,Tutor kids at home,Bihar
+1,19,2000,11,2,Apply to these jobs:,Gujarat
+1,18,2000,11,2,Apply to these jobs:,Madhya Pradesh
+1,17,2000,11,2,Apply to these jobs:,Himachal Pradesh
+0,68,12000,11,3,Tutor kids at home,Uttar Pradesh
+0,36,7000,11,3,Teach what you're good at!,Madhya Pradesh
+0,35,7000,11,3,Teach what you're good at!,Maharashtra
+0,36,5000,11,3,Work at a nearby library,Maharashtra
+0,37,2000,11,3,Apply to these jobs:,Andhra Pradesh
+1,44,7000,11,3,Teach what you're good at!,Uttar Pradesh
+1,43,5000,11,3,Work at a nearby library,Uttar Pradesh
+1,42,5000,11,3,Work at a nearby library,Maharashtra
+1,41,12000,11,3,Tutor kids at home,Kashmir
+1,40,12000,11,3,Tutor kids at home,Andhra Pradesh
+1,39,25000,11,3,Volunteer at local NGOs,Himachal Pradesh
+1,38,2000,11,3,Apply to these jobs:,Kashmir
+1,37,2000,11,3,Apply to these jobs:,Maharashtra
+1,36,2000,11,3,Apply to these jobs:,Kerala
+0,20,7000,11,3,Teach what you're good at!,Meghalaya
+0,19,7000,11,3,Teach what you're good at!,Andhra Pradesh
+0,18,2000,11,3,Apply to these jobs:,Himachal Pradesh
+1,16,7000,11,3,Teach what you're good at!,Kashmir
+1,25,5000,11,3,Work at a nearby library,Andhra Pradesh
+1,16,5000,11,3,Work at a nearby library,Madhya Pradesh
+0,61,7000,11,4,Teach what you're good at!,Uttar Pradesh
+0,46,5000,11,4,Work at a nearby library,Himachal Pradesh
+0,47,5000,11,4,Work at a nearby library,Maharashtra
+1,56,7000,11,4,Teach what you're good at!,Uttar Pradesh
+1,57,7000,11,4,Teach what you're good at!,Gujarat
+1,58,7000,11,4,Teach what you're good at!,Telangana
+1,59,5000,11,4,Work at a nearby library,Andhra Pradesh
+1,60,5000,11,4,Work at a nearby library,Gujarat
+1,61,25000,11,4,Volunteer at local NGOs,Himachal Pradesh
+1,62,2000,11,4,Apply to these jobs:,Uttar Pradesh
+1,63,2000,11,4,Apply to these jobs:,Andhra Pradesh
+0,19,7000,11,4,Teach what you're good at!,Andhra Pradesh
+0,18,7000,11,4,Teach what you're good at!,Andhra Pradesh
+0,17,7000,11,4,Teach what you're good at!,Madhya Pradesh
+0,16,5000,11,4,Work at a nearby library,Himachal Pradesh
+0,25,12000,11,4,Tutor kids at home,Uttar Pradesh
+0,16,2000,11,4,Apply to these jobs:,Andhra Pradesh
+0,17,2000,11,4,Apply to these jobs:,Madhya Pradesh
+0,18,2000,11,4,Apply to these jobs:,Uttar Pradesh
+1,25,5000,11,4,Work at a nearby library,Punjab
+1,16,5000,11,4,Work at a nearby library,Madhya Pradesh
+1,17,5000,11,4,Work at a nearby library,Madhya Pradesh
+1,18,12000,11,4,Tutor kids at home,Uttar Pradesh
+1,19,2000,11,4,Apply to these jobs:,Maharashtra
+0,62,2000,11,6,Apply to these jobs:,Gujarat
+0,20,2000,11,6,Apply to these jobs:,Uttarakhand
+1,19,2000,11,6,Apply to these jobs:,Punjab
+0,53,5000,11,7,Work at a nearby library,Maharashtra
+0,47,5000,12,0,Work at a nearby library,Gujarat
+0,46,2000,12,0,Apply to these jobs:,Andhra Pradesh
+0,49,2000,12,0,Apply to these jobs:,Uttar Pradesh
+1,68,7000,12,0,Teach what you're good at!,Delhi
+1,69,5000,12,0,Work at a nearby library,Gujarat
+0,22,5000,12,0,Work at a nearby library,Delhi
+1,22,5000,12,0,Work at a nearby library,Barinas
+0,29,2000,12,1,Apply to these jobs:,Uttarakhand
+1,29,7000,12,1,Teach what you're good at!,Uttar Pradesh
+1,30,7000,12,1,Teach what you're good at!,Uttar Pradesh
+1,31,5000,12,1,Work at a nearby library,Maharashtra
+1,32,5000,12,1,Work at a nearby library,Andhra Pradesh
+1,33,5000,12,1,Work at a nearby library,Himachal Pradesh
+1,34,2000,12,1,Apply to these jobs:,Andhra Pradesh
+1,26,2000,12,1,Apply to these jobs:,Maharashtra
+1,27,2000,12,1,Apply to these jobs:,Orissa
+0,17,7000,12,1,Teach what you're good at!,Bihar
+0,16,5000,12,1,Work at a nearby library,Uttar Pradesh
+0,25,5000,12,1,Work at a nearby library,Maharashtra
+0,16,5000,12,1,Work at a nearby library,Barinas
+0,17,5000,12,1,Work at a nearby library,Telangana
+0,18,12000,12,1,Tutor kids at home,Telangana
+0,19,25000,12,1,Volunteer at local NGOs,Uttar Pradesh
+0,20,2000,12,1,Apply to these jobs:,Himachal Pradesh
+0,21,2000,12,1,Apply to these jobs:,Madhya Pradesh
+0,22,2000,12,1,Apply to these jobs:,Delhi
+1,21,7000,12,1,Teach what you're good at!,Gujarat
+1,20,5000,12,1,Work at a nearby library,Andhra Pradesh
+1,19,5000,12,1,Work at a nearby library,Maharashtra
+1,18,15000,12,1,Volunteer at local NGOs/apply to these jobs:,Himachal Pradesh
+1,17,2000,12,1,Apply to these jobs:,Maharashtra
+0,34,7000,12,2,Teach what you're good at!,West Bengal
+0,26,5000,12,2,Work at a nearby library,Telangana
+0,27,5000,12,2,Work at a nearby library,Telangana
+0,28,2000,12,2,Apply to these jobs:,Rajasthan
+0,29,2000,12,2,Apply to these jobs:,Andhra Pradesh
+0,30,2000,12,2,Apply to these jobs:,Andhra Pradesh
+0,31,2000,12,2,Apply to these jobs:,Uttar Pradesh
+1,31,5000,12,2,Work at a nearby library,Delhi
+1,32,5000,12,2,Work at a nearby library,Gujarat
+1,33,5000,12,2,Work at a nearby library,Meghalaya
+1,34,2000,12,2,Apply to these jobs:,Karnataka
+0,19,7000,12,2,Teach what you're good at!,Uttarakhand
+0,18,7000,12,2,Teach what you're good at!,Madhya Pradesh
+0,17,5000,12,2,Work at a nearby library,Madhya Pradesh
+0,16,5000,12,2,Work at a nearby library,Uttar Pradesh
+0,25,5000,12,2,Work at a nearby library,Gujarat
+0,16,5000,12,2,Work at a nearby library,Madhya Pradesh
+1,21,7000,12,2,Teach what you're good at!,Gujarat
+1,20,7000,12,2,Teach what you're good at!,Andhra Pradesh
+1,19,7000,12,2,Teach what you're good at!,Assam
+1,18,5000,12,2,Work at a nearby library,Maharashtra
+1,17,12000,12,2,Tutor kids at home,Madhya Pradesh
+0,59,7000,12,3,Teach what you're good at!,Andhra Pradesh
+0,60,7000,12,3,Teach what you're good at!,Madhya Pradesh
+0,61,7000,12,3,Teach what you're good at!,Delhi
+0,62,5000,12,3,Work at a nearby library,Gujarat
+0,63,5000,12,3,Work at a nearby library,Uttar Pradesh
+0,64,5000,12,3,Work at a nearby library,Andhra Pradesh
+0,65,2000,12,3,Apply to these jobs:,Uttarakhand
+0,66,2000,12,3,Apply to these jobs:,Andhra Pradesh
+0,67,2000,12,3,Apply to these jobs:,Gujarat
+0,39,7000,12,3,Teach what you're good at!,Kashmir
+0,38,5000,12,3,Work at a nearby library,Orissa
+0,37,15000,12,3,Volunteer at local NGOs/apply to these jobs:,Meghalaya
+1,41,7000,12,3,Teach what you're good at!,Kashmir
+1,40,7000,12,3,Teach what you're good at!,Maharashtra
+1,39,7000,12,3,Teach what you're good at!,Uttarakhand
+1,38,7000,12,3,Teach what you're good at!,Uttar Pradesh
+1,37,7000,12,3,Teach what you're good at!,Andhra Pradesh
+1,36,5000,12,3,Work at a nearby library,Maharashtra
+1,35,5000,12,3,Work at a nearby library,Maharashtra
+1,36,5000,12,3,Work at a nearby library,Meghalaya
+1,37,5000,12,3,Work at a nearby library,Andhra Pradesh
+1,38,5000,12,3,Work at a nearby library,Gujarat
+1,39,5000,12,3,Work at a nearby library,Uttarakhand
+1,40,5000,12,3,Work at a nearby library,Himachal Pradesh
+1,41,12000,12,3,Tutor kids at home,Madhya Pradesh
+1,42,15000,12,3,Volunteer at local NGOs/apply to these jobs:,Andhra Pradesh
+1,43,2000,12,3,Apply to these jobs:,Kashmir
+1,44,2000,12,3,Apply to these jobs:,Maharashtra
+0,22,7000,12,3,Teach what you're good at!,Uttar Pradesh
+0,21,5000,12,3,Work at a nearby library,Himachal Pradesh
+1,19,5000,12,3,Work at a nearby library,Punjab
+1,18,12000,12,3,Tutor kids at home,Himachal Pradesh
+1,17,2000,12,3,Apply to these jobs:,Uttar Pradesh
+0,53,5000,12,4,Work at a nearby library,Uttar Pradesh
+0,55,5000,12,4,Work at a nearby library,Rajasthan
+1,53,7000,12,4,Teach what you're good at!,Uttar Pradesh
+1,55,7000,12,4,Teach what you're good at!,Gujarat
+1,61,7000,12,4,Teach what you're good at!,Karnataka
+1,46,12000,12,4,Tutor kids at home,Andhra Pradesh
+1,47,12000,12,4,Tutor kids at home,Barinas
+1,78,12000,12,4,Tutor kids at home,Meghalaya
+1,52,2000,12,4,Apply to these jobs:,Punjab
+1,19,7000,12,4,Teach what you're good at!,Gujarat
+1,18,7000,12,4,Teach what you're good at!,Andhra Pradesh
+1,17,5000,12,4,Work at a nearby library,Maharashtra
+1,16,12000,12,4,Tutor kids at home,Gujarat
+0,21,7000,12,6,Teach what you're good at!,Uttar Pradesh
+0,70,7000,13,0,Teach what you're good at!,Gujarat
+0,71,7000,13,0,Teach what you're good at!,Uttar Pradesh
+0,72,5000,13,0,Work at a nearby library,Andhra Pradesh
+0,73,5000,13,0,Work at a nearby library,Uttar Pradesh
+0,46,5000,13,0,Work at a nearby library,Himachal Pradesh
+0,45,2000,13,0,Apply to these jobs:,Uttar Pradesh
+1,64,5000,13,0,Work at a nearby library,Tamil Nadu
+1,65,5000,13,0,Work at a nearby library,Uttar Pradesh
+1,66,5000,13,0,Work at a nearby library,Maharashtra
+1,67,2000,13,0,Apply to these jobs:,Andhra Pradesh
+0,24,5000,13,0,Work at a nearby library,Uttar Pradesh
+0,23,5000,13,0,Work at a nearby library,Uttar Pradesh
+1,24,2000,13,0,Apply to these jobs:,Uttar Pradesh
+1,23,2000,13,0,Apply to these jobs:,Andhra Pradesh
+0,16,2000,13,1,Apply to these jobs:,Madhya Pradesh
+0,47,5000,13,1,Work at a nearby library,Andhra Pradesh
+0,28,2000,13,1,Apply to these jobs:,Uttar Pradesh
+1,26,7000,13,1,Teach what you're good at!,Maharashtra
+1,27,7000,13,1,Teach what you're good at!,Gujarat
+1,28,5000,13,1,Work at a nearby library,Maharashtra
+0,22,5000,13,1,Work at a nearby library,Gujarat
+0,23,5000,13,1,Work at a nearby library,Gujarat
+0,24,5000,13,1,Work at a nearby library,Uttar Pradesh
+0,24,5000,13,1,Work at a nearby library,Madhya Pradesh
+0,23,5000,13,1,Work at a nearby library,Maharashtra
+0,22,2000,13,1,Apply to these jobs:,Andhra Pradesh
+0,21,2000,13,1,Apply to these jobs:,Uttar Pradesh
+0,20,2000,13,1,Apply to these jobs:,Maharashtra
+0,19,2000,13,1,Apply to these jobs:,Uttarakhand
+0,18,2000,13,1,Apply to these jobs:,Kashmir
+1,19,7000,13,1,Teach what you're good at!,Himachal Pradesh
+1,18,7000,13,1,Teach what you're good at!,Gujarat
+1,17,7000,13,1,Teach what you're good at!,Gujarat
+1,16,7000,13,1,Teach what you're good at!,Andhra Pradesh
+1,25,5000,13,1,Work at a nearby library,Andhra Pradesh
+1,16,5000,13,1,Work at a nearby library,Uttar Pradesh
+1,17,5000,13,1,Work at a nearby library,Andhra Pradesh
+1,18,12000,13,1,Tutor kids at home,Uttar Pradesh
+1,19,15000,13,1,Volunteer at local NGOs/apply to these jobs:,Madhya Pradesh
+1,20,2000,13,1,Apply to these jobs:,West Bengal
+1,21,2000,13,1,Apply to these jobs:,Uttar Pradesh
+1,22,2000,13,1,Apply to these jobs:,Delhi
+1,23,2000,13,1,Apply to these jobs:,Andhra Pradesh
+1,24,2000,13,1,Apply to these jobs:,Kashmir
+1,24,2000,13,1,Apply to these jobs:,Delhi
+1,23,2000,13,1,Apply to these jobs:,Madhya Pradesh
+1,22,2000,13,1,Apply to these jobs:,Uttar Pradesh
+0,32,5000,13,2,Work at a nearby library,Andhra Pradesh
+0,33,2000,13,2,Apply to these jobs:,Meghalaya
+1,23,5000,13,2,Work at a nearby library,Andhra Pradesh
+1,22,5000,13,2,Work at a nearby library,Barinas
+0,47,5000,13,3,Work at a nearby library,Telangana
+0,78,5000,13,3,Work at a nearby library,Himachal Pradesh
+0,52,5000,13,3,Work at a nearby library,Maharashtra
+0,56,5000,13,3,Work at a nearby library,Uttar Pradesh
+0,57,2000,13,3,Apply to these jobs:,Andhra Pradesh
+0,58,2000,13,3,Apply to these jobs:,Madhya Pradesh
+0,44,7000,13,3,Teach what you're good at!,Andhra Pradesh
+0,43,7000,13,3,Teach what you're good at!,Maharashtra
+0,42,5000,13,3,Work at a nearby library,Gujarat
+0,41,12000,13,3,Tutor kids at home,Madhya Pradesh
+0,40,2000,13,3,Apply to these jobs:,Gujarat
+1,36,7000,13,3,Teach what you're good at!,Madhya Pradesh
+1,35,7000,13,3,Teach what you're good at!,Delhi
+1,36,7000,13,3,Teach what you're good at!,Andhra Pradesh
+1,37,5000,13,3,Work at a nearby library,Madhya Pradesh
+1,38,5000,13,3,Work at a nearby library,Madhya Pradesh
+1,39,5000,13,3,Work at a nearby library,Maharashtra
+1,40,5000,13,3,Work at a nearby library,Andhra Pradesh
+1,41,2000,13,3,Apply to these jobs:,Maharashtra
+1,42,2000,13,3,Apply to these jobs:,Madhya Pradesh
+1,43,2000,13,3,Apply to these jobs:,Gujarat
+1,44,2000,13,3,Apply to these jobs:,Andhra Pradesh
+1,44,2000,13,3,Apply to these jobs:,Andhra Pradesh
+1,43,2000,13,3,Apply to these jobs:,Himachal Pradesh
+1,42,2000,13,3,Apply to these jobs:,Gujarat
+1,22,7000,13,3,Teach what you're good at!,Uttar Pradesh
+1,21,7000,13,3,Teach what you're good at!,Telangana
+1,20,5000,13,3,Work at a nearby library,Uttar Pradesh
+0,47,7000,13,4,Teach what you're good at!,Gujarat
+0,46,5000,13,4,Work at a nearby library,Uttar Pradesh
+0,49,5000,13,4,Work at a nearby library,Telangana
+1,73,7000,13,4,Teach what you're good at!,Uttar Pradesh
+1,46,7000,13,4,Teach what you're good at!,Telangana
+1,45,7000,13,4,Teach what you're good at!,Uttar Pradesh
+1,47,2000,13,4,Apply to these jobs:,Maharashtra
+1,46,2000,13,4,Apply to these jobs:,Andhra Pradesh
+1,49,2000,13,4,Apply to these jobs:,Maharashtra
+1,21,5000,13,4,Work at a nearby library,Telangana
+1,20,5000,13,4,Work at a nearby library,Uttar Pradesh
+0,57,7000,13,6,Teach what you're good at!,Gujarat
+0,58,5000,13,6,Work at a nearby library,Delhi
+0,59,5000,13,6,Work at a nearby library,Meghalaya
+0,60,2000,13,6,Apply to these jobs:,Andhra Pradesh
+0,61,2000,13,6,Apply to these jobs:,Uttar Pradesh
+0,23,7000,13,6,Teach what you're good at!,Kashmir
+0,22,2000,13,6,Apply to these jobs:,Gujarat
+1,17,5000,13,6,Work at a nearby library,Telangana
+1,18,2000,13,6,Apply to these jobs:,Uttar Pradesh
+1,63,2000,14,0,Apply to these jobs:,Maharashtra
+0,24,2000,14,0,Apply to these jobs:,Himachal Pradesh
+1,24,5000,14,0,Work at a nearby library,West Bengal
+1,34,2000,14,1,Apply to these jobs:,Uttar Pradesh
+1,21,7000,14,1,Teach what you're good at!,Orissa
+1,20,15000,14,1,Volunteer at local NGOs/apply to these jobs:,Himachal Pradesh
+1,30,2000,14,2,Apply to these jobs:,Madhya Pradesh
+1,24,2000,14,2,Apply to these jobs:,Maharashtra
+0,61,5000,14,3,Work at a nearby library,Uttar Pradesh
+0,46,5000,14,3,Work at a nearby library,Andhra Pradesh
+1,38,5000,14,3,Work at a nearby library,Andhra Pradesh
+1,37,5000,14,3,Work at a nearby library,Andhra Pradesh
+1,23,7000,14,3,Teach what you're good at!,Telangana
+1,71,12000,14,4,Tutor kids at home,Uttar Pradesh
+1,72,15000,14,4,Volunteer at local NGOs/apply to these jobs:,Uttar Pradesh
+0,78,5000,14,6,Work at a nearby library,Uttar Pradesh
+0,52,5000,14,6,Work at a nearby library,Andhra Pradesh
+0,56,5000,14,6,Work at a nearby library,Telangana
+0,47,7000,13,0,Teach what you're good at!,Andhra Pradesh
+0,78,7000,13,0,Teach what you're good at!,Madhya Pradesh
+0,52,7000,13,0,Teach what you're good at!,Andhra Pradesh
+0,56,7000,13,0,Teach what you're good at!,Telangana
+0,57,7000,13,0,Teach what you're good at!,Kashmir
+0,58,7000,13,0,Teach what you're good at!,Himachal Pradesh
+0,59,5000,13,0,Work at a nearby library,Kashmir
+0,60,5000,13,0,Work at a nearby library,Telangana
+0,61,5000,13,0,Work at a nearby library,Himachal Pradesh
+0,62,2000,13,0,Apply to these jobs:,Himachal Pradesh
+0,63,2000,13,0,Apply to these jobs:,Gujarat
+0,64,2000,13,0,Apply to these jobs:,Meghalaya
+0,65,2000,13,0,Apply to these jobs:,Maharashtra
+0,66,2000,13,0,Apply to these jobs:,Telangana
+0,67,2000,13,0,Apply to these jobs:,Maharashtra
+0,68,2000,13,0,Apply to these jobs:,Maharashtra
+0,69,2000,13,0,Apply to these jobs:,Maharashtra
+1,47,7000,13,0,Teach what you're good at!,Himachal Pradesh
+1,78,7000,13,0,Teach what you're good at!,Maharashtra
+1,52,5000,13,0,Work at a nearby library,Delhi
+1,56,5000,13,0,Work at a nearby library,Telangana
+1,57,5000,13,0,Work at a nearby library,Maharashtra
+1,58,5000,13,0,Work at a nearby library,Gujarat
+1,59,5000,13,0,Work at a nearby library,Andhra Pradesh
+1,60,2000,13,0,Apply to these jobs:,Himachal Pradesh
+1,61,2000,13,0,Apply to these jobs:,Gujarat
+1,62,2000,13,0,Apply to these jobs:,Andhra Pradesh
+0,24,7000,13,0,Teach what you're good at!,Uttar Pradesh
+0,24,5000,13,0,Work at a nearby library,Uttarakhand
+0,23,5000,13,0,Work at a nearby library,Kashmir
+0,22,5000,13,0,Work at a nearby library,Uttar Pradesh
+0,21,5000,13,0,Work at a nearby library,Madhya Pradesh
+0,20,5000,13,0,Work at a nearby library,Haryana
+0,19,5000,13,0,Work at a nearby library,Gujarat
+0,18,5000,13,0,Work at a nearby library,Delhi
+0,17,15000,13,0,Volunteer at local NGOs/apply to these jobs:,Kashmir
+0,16,2000,13,0,Apply to these jobs:,Uttar Pradesh
+0,25,2000,13,0,Apply to these jobs:,Himachal Pradesh
+0,16,2000,13,0,Apply to these jobs:,Uttar Pradesh
+0,17,2000,13,0,Apply to these jobs:,Himachal Pradesh
+0,18,2000,13,0,Apply to these jobs:,Andhra Pradesh
+0,19,2000,13,0,Apply to these jobs:,Gujarat
+0,20,2000,13,0,Apply to these jobs:,Maharashtra
+0,21,2000,13,0,Apply to these jobs:,Andhra Pradesh
+0,22,2000,13,0,Apply to these jobs:,Maharashtra
+0,23,2000,13,0,Apply to these jobs:,Maharashtra
+1,20,7000,13,0,Teach what you're good at!,Uttar Pradesh
+1,21,7000,13,0,Teach what you're good at!,Telangana
+1,22,7000,13,0,Teach what you're good at!,Assam
+1,23,5000,13,0,Work at a nearby library,Andhra Pradesh
+1,24,5000,13,0,Work at a nearby library,Delhi
+1,24,5000,13,0,Work at a nearby library,Himachal Pradesh
+1,23,5000,13,0,Work at a nearby library,Uttar Pradesh
+1,22,5000,13,0,Work at a nearby library,Himachal Pradesh
+1,21,5000,13,0,Work at a nearby library,Andhra Pradesh
+1,20,5000,13,0,Work at a nearby library,Uttar Pradesh
+1,19,2000,13,0,Apply to these jobs:,Gujarat
+1,18,2000,13,0,Apply to these jobs:,Kashmir
+1,17,2000,13,0,Apply to these jobs:,West Bengal
+1,16,2000,13,0,Apply to these jobs:,Barinas
+1,25,2000,13,0,Apply to these jobs:,Uttar Pradesh
+1,16,2000,13,0,Apply to these jobs:,Haryana
+1,17,2000,13,0,Apply to these jobs:,Maharashtra
+1,18,2000,13,0,Apply to these jobs:,Andhra Pradesh
+1,19,2000,13,0,Apply to these jobs:,Telangana
+1,20,2000,13,0,Apply to these jobs:,Maharashtra
+1,21,2000,13,0,Apply to these jobs:,Delhi
+1,22,2000,13,0,Apply to these jobs:,Andhra Pradesh
+1,23,2000,13,0,Apply to these jobs:,Andhra Pradesh
+0,45,5000,13,1,Work at a nearby library,Uttar Pradesh
+0,26,7000,13,1,Tutor kids at home or work part-time here:,Gujarat
+0,27,7000,13,1,Tutor kids at home or work part-time here:,Andhra Pradesh
+0,28,7000,13,1,Tutor kids at home or work part-time here:,Uttar Pradesh
+0,29,5000,13,1,Work at a nearby library,Meghalaya
+0,30,15000,13,1,Volunteer at local NGOs/apply to these jobs:,Kashmir
+0,31,2000,13,1,Apply to these jobs:,Uttar Pradesh
+0,32,2000,13,1,Apply to these jobs:,Telangana
+0,33,2000,13,1,Apply to these jobs:,Uttarakhand
+0,34,2000,13,1,Apply to these jobs:,Andhra Pradesh
+0,26,2000,13,1,Apply to these jobs:,Uttar Pradesh
+0,27,2000,13,1,Apply to these jobs:,Tamil Nadu
+1,29,7000,13,1,Teach what you're good at!,Karnataka
+1,30,2000,13,1,Apply to these jobs:,Andhra Pradesh
+1,31,2000,13,1,Apply to these jobs:,Delhi
+1,32,2000,13,1,Apply to these jobs:,Meghalaya
+1,33,2000,13,1,Apply to these jobs:,Karnataka
+0,24,7000,13,1,Tutor kids at home or work part-time here:,West Bengal
+0,24,7000,13,1,Tutor kids at home or work part-time here:,Bihar
+0,23,7000,13,1,Tutor kids at home or work part-time here:,Uttar Pradesh
+0,22,7000,13,1,Tutor kids at home or work part-time here:,Maharashtra
+0,21,7000,13,1,Tutor kids at home or work part-time here:,Uttar Pradesh
+0,20,7000,13,1,Tutor kids at home or work part-time here:,Uttar Pradesh
+0,19,7000,13,1,Tutor kids at home or work part-time here:,Meghalaya
+0,18,7000,13,1,Tutor kids at home or work part-time here:,Maharashtra
+0,17,7000,13,1,Tutor kids at home or work part-time here:,Kashmir
+0,16,7000,13,1,Tutor kids at home or work part-time here:,Meghalaya
+0,25,7000,13,1,Tutor kids at home or work part-time here:,Andhra Pradesh
+0,16,7000,13,1,Tutor kids at home or work part-time here:,Himachal Pradesh
+0,17,5000,13,1,Work at a nearby library,Andhra Pradesh
+0,18,5000,13,1,Work at a nearby library,Telangana
+0,19,5000,13,1,Work at a nearby library,Himachal Pradesh
+0,20,5000,13,1,Work at a nearby library,Madhya Pradesh
+0,21,5000,13,1,Work at a nearby library,Uttar Pradesh
+0,22,5000,13,1,Work at a nearby library,Himachal Pradesh
+0,23,5000,13,1,Work at a nearby library,Maharashtra
+0,24,5000,13,1,Work at a nearby library,Maharashtra
+0,24,5000,13,1,Work at a nearby library,Himachal Pradesh
+0,23,5000,13,1,Work at a nearby library,Rajasthan
+0,22,5000,13,1,Work at a nearby library,Uttar Pradesh
+0,21,5000,13,1,Work at a nearby library,Assam
+0,20,5000,13,1,Work at a nearby library,Meghalaya
+0,19,5000,13,1,Work at a nearby library,Madhya Pradesh
+0,18,5000,13,1,Work at a nearby library,Gujarat
+0,17,5000,13,1,Work at a nearby library,Gujarat
+0,16,5000,13,1,Work at a nearby library,Madhya Pradesh
+0,25,5000,13,1,Work at a nearby library,Orissa
+0,16,12000,13,1,Tutor kids at home,Telangana
+0,17,2000,13,1,Apply to these jobs:,Andhra Pradesh
+0,18,2000,13,1,Apply to these jobs:,Andhra Pradesh
+0,19,2000,13,1,Apply to these jobs:,Andhra Pradesh
+0,20,2000,13,1,Apply to these jobs:,Uttar Pradesh
+0,21,2000,13,1,Apply to these jobs:,Bihar
+0,22,2000,13,1,Apply to these jobs:,Gujarat
+0,23,2000,13,1,Apply to these jobs:,Telangana
+0,24,2000,13,1,Apply to these jobs:,Andhra Pradesh
+0,24,2000,13,1,Apply to these jobs:,Madhya Pradesh
+0,23,2000,13,1,Apply to these jobs:,Uttar Pradesh
+0,22,2000,13,1,Apply to these jobs:,Delhi
+0,21,2000,13,1,Apply to these jobs:,West Bengal
+0,20,2000,13,1,Apply to these jobs:,Maharashtra
+0,19,2000,13,1,Apply to these jobs:,Tamil Nadu
+0,18,2000,13,1,Apply to these jobs:,Uttar Pradesh
+0,17,2000,13,1,Apply to these jobs:,Maharashtra
+0,16,2000,13,1,Apply to these jobs:,Maharashtra
+0,25,2000,13,1,Apply to these jobs:,Gujarat
+0,16,2000,13,1,Apply to these jobs:,Himachal Pradesh
+0,17,2000,13,1,Apply to these jobs:,Maharashtra
+0,18,2000,13,1,Apply to these jobs:,Maharashtra
+0,19,2000,13,1,Apply to these jobs:,Uttar Pradesh
+0,20,2000,13,1,Apply to these jobs:,Barinas
+0,21,2000,13,1,Apply to these jobs:,Bihar
+1,22,7000,13,1,Teach what you're good at!,Uttar Pradesh
+1,21,7000,13,1,Teach what you're good at!,Barinas
+1,20,7000,13,1,Teach what you're good at!,Madhya Pradesh
+1,19,7000,13,1,Teach what you're good at!,Uttar Pradesh
+1,18,7000,13,1,Teach what you're good at!,Uttar Pradesh
+1,17,7000,13,1,Teach what you're good at!,Andhra Pradesh
+1,16,7000,13,1,Teach what you're good at!,Haryana
+1,25,7000,13,1,Teach what you're good at!,Andhra Pradesh
+1,16,5000,13,1,Work at a nearby library,Madhya Pradesh
+1,17,5000,13,1,Work at a nearby library,Delhi
+1,18,5000,13,1,Work at a nearby library,Andhra Pradesh
+1,19,5000,13,1,Work at a nearby library,Andhra Pradesh
+1,20,5000,13,1,Work at a nearby library,Rajasthan
+1,21,5000,13,1,Work at a nearby library,Madhya Pradesh
+1,22,5000,13,1,Work at a nearby library,Himachal Pradesh
+1,23,5000,13,1,Work at a nearby library,Andhra Pradesh
+1,24,5000,13,1,Work at a nearby library,Andhra Pradesh
+1,24,5000,13,1,Work at a nearby library,Andhra Pradesh
+1,23,12000,13,1,Tutor kids at home,Kashmir
+1,22,12000,13,1,Tutor kids at home,Maharashtra
+1,21,2000,13,1,Apply to these jobs:,Himachal Pradesh
+1,20,2000,13,1,Apply to these jobs:,Uttar Pradesh
+1,19,2000,13,1,Apply to these jobs:,Bihar
+1,18,2000,13,1,Apply to these jobs:,Kashmir
+1,17,2000,13,1,Apply to these jobs:,Andhra Pradesh
+1,16,2000,13,1,Apply to these jobs:,West Bengal
+1,25,2000,13,1,Apply to these jobs:,Rajasthan
+1,16,2000,13,1,Apply to these jobs:,Rajasthan
+1,17,2000,13,1,Apply to these jobs:,Meghalaya
+1,18,2000,13,1,Apply to these jobs:,Madhya Pradesh
+1,19,2000,13,1,Apply to these jobs:,Meghalaya
+1,20,2000,13,1,Apply to these jobs:,Gujarat
+1,21,2000,13,1,Apply to these jobs:,Delhi
+1,22,2000,13,1,Apply to these jobs:,Delhi
+1,23,2000,13,1,Apply to these jobs:,Telangana
+1,24,2000,13,1,Apply to these jobs:,Himachal Pradesh
+1,24,2000,13,1,Apply to these jobs:,Uttar Pradesh
+1,23,2000,13,1,Apply to these jobs:,Himachal Pradesh
+1,22,2000,13,1,Apply to these jobs:,Madhya Pradesh
+0,49,2000,13,2,Apply to these jobs:,West Bengal
+0,26,7000,13,2,Teach what you're good at!,Gujarat
+0,27,7000,13,2,Teach what you're good at!,Gujarat
+0,28,5000,13,2,Work at a nearby library,Uttarakhand
+0,29,5000,13,2,Work at a nearby library,Orissa
+0,30,5000,13,2,Work at a nearby library,Kerala
+0,31,2000,13,2,Apply to these jobs:,Andhra Pradesh
+1,27,7000,13,2,Teach what you're good at!,Uttar Pradesh
+1,28,7000,13,2,Teach what you're good at!,Tamil Nadu
+1,29,7000,13,2,Teach what you're good at!,Andhra Pradesh
+1,30,7000,13,2,Teach what you're good at!,Gujarat
+1,31,7000,13,2,Teach what you're good at!,Himachal Pradesh
+1,32,5000,13,2,Work at a nearby library,Uttar Pradesh
+1,33,5000,13,2,Work at a nearby library,Telangana
+1,34,5000,13,2,Work at a nearby library,Orissa
+1,26,12000,13,2,Tutor kids at home,Andhra Pradesh
+1,27,2000,13,2,Apply to these jobs:,Punjab
+1,28,2000,13,2,Apply to these jobs:,Maharashtra
+1,29,2000,13,2,Apply to these jobs:,Orissa
+0,19,7000,13,2,Teach what you're good at!,Andhra Pradesh
+0,18,7000,13,2,Teach what you're good at!,Gujarat
+0,17,7000,13,2,Teach what you're good at!,Gujarat
+0,16,7000,13,2,Teach what you're good at!,Uttar Pradesh
+0,25,5000,13,2,Work at a nearby library,Madhya Pradesh
+0,16,5000,13,2,Work at a nearby library,Andhra Pradesh
+0,17,5000,13,2,Work at a nearby library,Uttar Pradesh
+0,18,5000,13,2,Work at a nearby library,Uttar Pradesh
+0,19,5000,13,2,Work at a nearby library,Gujarat
+0,20,5000,13,2,Work at a nearby library,Gujarat
+0,21,5000,13,2,Work at a nearby library,Andhra Pradesh
+0,22,5000,13,2,Work at a nearby library,Kashmir
+0,23,12000,13,2,Tutor kids at home,Telangana
+0,24,12000,13,2,Tutor kids at home,Meghalaya
+0,24,15000,13,2,Volunteer at local NGOs/apply to these jobs:,Telangana
+0,23,2000,13,2,Apply to these jobs:,Uttar Pradesh
+0,22,2000,13,2,Apply to these jobs:,Madhya Pradesh
+0,21,2000,13,2,Apply to these jobs:,Gujarat
+0,20,2000,13,2,Apply to these jobs:,Gujarat
+1,18,7000,13,2,Teach what you're good at!,Andhra Pradesh
+1,19,7000,13,2,Teach what you're good at!,Andhra Pradesh
+1,20,7000,13,2,Teach what you're good at!,Madhya Pradesh
+1,21,5000,13,2,Work at a nearby library,Andhra Pradesh
+1,22,5000,13,2,Work at a nearby library,Himachal Pradesh
+1,23,5000,13,2,Work at a nearby library,Andhra Pradesh
+1,24,5000,13,2,Work at a nearby library,Gujarat
+1,24,5000,13,2,Work at a nearby library,Himachal Pradesh
+1,23,5000,13,2,Work at a nearby library,Himachal Pradesh
+1,22,5000,13,2,Work at a nearby library,Andhra Pradesh
+1,21,5000,13,2,Work at a nearby library,Madhya Pradesh
+1,20,5000,13,2,Work at a nearby library,Uttar Pradesh
+1,19,5000,13,2,Work at a nearby library,Kashmir
+1,18,5000,13,2,Work at a nearby library,Maharashtra
+1,17,5000,13,2,Work at a nearby library,Delhi
+1,16,5000,13,2,Work at a nearby library,Uttar Pradesh
+1,25,12000,13,2,Tutor kids at home,Gujarat
+1,16,12000,13,2,Tutor kids at home,Gujarat
+1,17,12000,13,2,Tutor kids at home,Delhi
+1,18,25000,13,2,Volunteer at local NGOs,Gujarat
+1,19,2000,13,2,Apply to these jobs:,Maharashtra
+1,20,2000,13,2,Apply to these jobs:,Uttar Pradesh
+1,21,2000,13,2,Apply to these jobs:,Uttar Pradesh
+1,22,2000,13,2,Apply to these jobs:,Andhra Pradesh
+1,23,2000,13,2,Apply to these jobs:,Madhya Pradesh
+1,24,2000,13,2,Apply to these jobs:,Gujarat
+0,64,7000,13,3,Teach what you're good at!,Andhra Pradesh
+0,65,7000,13,3,Teach what you're good at!,Himachal Pradesh
+0,66,7000,13,3,Teach what you're good at!,Uttar Pradesh
+0,67,7000,13,3,Teach what you're good at!,Gujarat
+0,68,7000,13,3,Teach what you're good at!,Gujarat
+0,69,7000,13,3,Teach what you're good at!,Meghalaya
+0,70,7000,13,3,Teach what you're good at!,Maharashtra
+0,71,7000,13,3,Teach what you're good at!,Madhya Pradesh
+0,72,7000,13,3,Teach what you're good at!,Madhya Pradesh
+0,73,5000,13,3,Work at a nearby library,Meghalaya
+0,46,5000,13,3,Work at a nearby library,Maharashtra
+0,45,5000,13,3,Work at a nearby library,Andhra Pradesh
+0,47,5000,13,3,Work at a nearby library,Andhra Pradesh
+0,46,5000,13,3,Work at a nearby library,Andhra Pradesh
+0,49,5000,13,3,Work at a nearby library,Meghalaya
+0,53,12000,13,3,Tutor kids at home,Himachal Pradesh
+0,55,2000,13,3,Apply to these jobs:,Barinas
+0,37,7000,13,3,Teach what you're good at!,Himachal Pradesh
+0,36,7000,13,3,Teach what you're good at!,Andhra Pradesh
+0,35,7000,13,3,Teach what you're good at!,Andhra Pradesh
+0,36,7000,13,3,Teach what you're good at!,Maharashtra
+0,37,5000,13,3,Work at a nearby library,Andhra Pradesh
+0,38,5000,13,3,Work at a nearby library,Punjab
+0,39,5000,13,3,Work at a nearby library,Madhya Pradesh
+0,40,5000,13,3,Work at a nearby library,Himachal Pradesh
+0,41,5000,13,3,Work at a nearby library,Andhra Pradesh
+0,42,12000,13,3,Tutor kids at home,Uttar Pradesh
+0,43,12000,13,3,Tutor kids at home,Maharashtra
+0,44,2000,13,3,Apply to these jobs:,Maharashtra
+1,43,7000,13,3,Teach what you're good at!,Himachal Pradesh
+1,42,7000,13,3,Teach what you're good at!,Maharashtra
+1,41,7000,13,3,Teach what you're good at!,Andhra Pradesh
+1,40,7000,13,3,Teach what you're good at!,Meghalaya
+1,39,7000,13,3,Teach what you're good at!,Meghalaya
+1,38,7000,13,3,Teach what you're good at!,Kashmir
+1,37,7000,13,3,Teach what you're good at!,Maharashtra
+1,36,7000,13,3,Teach what you're good at!,Madhya Pradesh
+1,35,7000,13,3,Teach what you're good at!,Andhra Pradesh
+1,36,7000,13,3,Teach what you're good at!,Gujarat
+1,37,5000,13,3,Work at a nearby library,Uttar Pradesh
+1,38,5000,13,3,Work at a nearby library,Uttar Pradesh
+1,39,5000,13,3,Work at a nearby library,Maharashtra
+1,40,5000,13,3,Work at a nearby library,Andhra Pradesh
+1,41,5000,13,3,Work at a nearby library,Karnataka
+1,42,5000,13,3,Work at a nearby library,Gujarat
+1,43,5000,13,3,Work at a nearby library,Uttar Pradesh
+1,44,5000,13,3,Work at a nearby library,Telangana
+1,44,12000,13,3,Tutor kids at home,Uttar Pradesh
+1,43,12000,13,3,Tutor kids at home,Uttar Pradesh
+1,42,15000,13,3,Volunteer at local NGOs/apply to these jobs:,Gujarat
+1,41,2000,13,3,Apply to these jobs:,Karnataka
+1,40,2000,13,3,Apply to these jobs:,Uttar Pradesh
+1,39,2000,13,3,Apply to these jobs:,Kashmir
+0,17,7000,13,3,Teach what you're good at!,Delhi
+0,18,5000,13,3,Work at a nearby library,Himachal Pradesh
+0,19,5000,13,3,Work at a nearby library,West Bengal
+0,20,5000,13,3,Work at a nearby library,Telangana
+0,21,5000,13,3,Work at a nearby library,Andhra Pradesh
+0,22,2000,13,3,Apply to these jobs:,Uttar Pradesh
+0,23,2000,13,3,Apply to these jobs:,Uttar Pradesh
+0,24,2000,13,3,Apply to these jobs:,Gujarat
+0,24,2000,13,3,Apply to these jobs:,Maharashtra
+0,23,2000,13,3,Apply to these jobs:,Telangana
+1,21,7000,13,3,Teach what you're good at!,Gujarat
+1,20,7000,13,3,Teach what you're good at!,Andhra Pradesh
+1,19,7000,13,3,Teach what you're good at!,Punjab
+1,18,7000,13,3,Teach what you're good at!,Gujarat
+1,17,7000,13,3,Teach what you're good at!,Gujarat
+1,16,7000,13,3,Teach what you're good at!,Maharashtra
+1,25,7000,13,3,Teach what you're good at!,Himachal Pradesh
+1,16,5000,13,3,Work at a nearby library,Uttarakhand
+1,17,5000,13,3,Work at a nearby library,Andhra Pradesh
+1,18,5000,13,3,Work at a nearby library,Andhra Pradesh
+1,19,5000,13,3,Work at a nearby library,Telangana
+1,20,5000,13,3,Work at a nearby library,Kashmir
+1,21,5000,13,3,Work at a nearby library,Delhi
+1,22,2000,13,3,Apply to these jobs:,Uttar Pradesh
+1,23,2000,13,3,Apply to these jobs:,Himachal Pradesh
+1,24,2000,13,3,Apply to these jobs:,Uttar Pradesh
+1,24,2000,13,3,Apply to these jobs:,Orissa
+0,67,7000,13,4,Teach what you're good at!,Andhra Pradesh
+0,68,7000,13,4,Teach what you're good at!,Rajasthan
+0,69,7000,13,4,Teach what you're good at!,Maharashtra
+0,70,7000,13,4,Teach what you're good at!,Meghalaya
+0,71,5000,13,4,Work at a nearby library,Uttar Pradesh
+0,72,5000,13,4,Work at a nearby library,Andhra Pradesh
+0,73,5000,13,4,Work at a nearby library,Andhra Pradesh
+0,46,5000,13,4,Work at a nearby library,Andhra Pradesh
+0,45,2000,13,4,Apply to these jobs:,Maharashtra
+1,61,7000,13,4,Teach what you're good at!,Himachal Pradesh
+1,62,7000,13,4,Teach what you're good at!,Barinas
+1,63,7000,13,4,Teach what you're good at!,Kashmir
+1,64,7000,13,4,Teach what you're good at!,Maharashtra
+1,65,5000,13,4,Work at a nearby library,Andhra Pradesh
+1,66,5000,13,4,Work at a nearby library,Andhra Pradesh
+1,67,5000,13,4,Work at a nearby library,Meghalaya
+1,68,12000,13,4,Tutor kids at home,Andhra Pradesh
+1,69,12000,13,4,Tutor kids at home,Uttar Pradesh
+1,70,15000,13,4,Volunteer at local NGOs/apply to these jobs:,Gujarat
+0,23,7000,13,4,Teach what you're good at!,Gujarat
+0,24,7000,13,4,Teach what you're good at!,Orissa
+0,24,7000,13,4,Teach what you're good at!,Kashmir
+0,23,5000,13,4,Work at a nearby library,Andhra Pradesh
+0,22,5000,13,4,Work at a nearby library,Gujarat
+0,21,5000,13,4,Work at a nearby library,Kashmir
+0,20,2000,13,4,Apply to these jobs:,Maharashtra
+1,25,7000,13,4,Teach what you're good at!,Maharashtra
+1,16,7000,13,4,Teach what you're good at!,Himachal Pradesh
+1,17,7000,13,4,Teach what you're good at!,Maharashtra
+1,18,7000,13,4,Teach what you're good at!,Kashmir
+1,19,5000,13,4,Work at a nearby library,Andhra Pradesh
+1,20,5000,13,4,Work at a nearby library,Tamil Nadu
+1,21,12000,13,4,Tutor kids at home,Uttar Pradesh
+1,22,25000,13,4,Volunteer at local NGOs,Kashmir
+1,23,15000,13,4,Volunteer at local NGOs/apply to these jobs:,Bihar
+1,24,15000,13,4,Volunteer at local NGOs/apply to these jobs:,Maharashtra
+1,24,2000,13,4,Apply to these jobs:,Kashmir
+1,23,2000,13,4,Apply to these jobs:,Uttar Pradesh
+1,22,2000,13,4,Apply to these jobs:,Madhya Pradesh
+0,45,7000,13,6,Teach what you're good at!,Delhi
+0,47,7000,13,6,Teach what you're good at!,Barinas
+0,46,5000,13,6,Work at a nearby library,Uttar Pradesh
+0,49,5000,13,6,Work at a nearby library,Kashmir
+0,53,5000,13,6,Work at a nearby library,Madhya Pradesh
+0,55,2000,13,6,Apply to these jobs:,Delhi
+0,61,2000,13,6,Apply to these jobs:,Andhra Pradesh
+0,46,2000,13,6,Apply to these jobs:,Himachal Pradesh
+0,47,2000,13,6,Apply to these jobs:,Himachal Pradesh
+0,19,7000,13,6,Teach what you're good at!,Gujarat
+0,20,7000,13,6,Teach what you're good at!,Gujarat
+0,21,7000,13,6,Teach what you're good at!,Uttar Pradesh
+0,22,5000,13,6,Work at a nearby library,Kashmir
+0,23,5000,13,6,Work at a nearby library,Assam
+0,24,5000,13,6,Work at a nearby library,West Bengal
+0,24,2000,13,6,Apply to these jobs:,Maharashtra
+1,25,5000,13,6,Work at a nearby library,Gujarat
+1,16,2000,13,6,Apply to these jobs:,Maharashtra
+0,22,2000,13,7,Apply to these jobs:,Telangana
+1,23,2000,13,7,Apply to these jobs:,Bihar
+0,70,7000,13,8,Teach what you're good at!,Gujarat
+0,71,7000,13,8,Teach what you're good at!,Uttar Pradesh
+0,72,5000,13,8,Work at a nearby library,Gujarat
+0,73,5000,13,8,Work at a nearby library,Maharashtra
+0,46,5000,13,8,Work at a nearby library,Himachal Pradesh
+0,45,5000,13,8,Work at a nearby library,Punjab
+0,47,5000,13,8,Work at a nearby library,Gujarat
+0,46,2000,13,8,Apply to these jobs:,Telangana
+0,49,2000,13,8,Apply to these jobs:,Gujarat
+0,61,7000,14,0,Teach what you're good at!,Andhra Pradesh
+0,46,5000,14,0,Work at a nearby library,Andhra Pradesh
+1,49,5000,14,0,Work at a nearby library,Gujarat
+1,53,2000,14,0,Apply to these jobs:,Andhra Pradesh
+1,55,2000,14,0,Apply to these jobs:,Andhra Pradesh
+1,61,2000,14,0,Apply to these jobs:,Madhya Pradesh
+1,46,2000,14,0,Apply to these jobs:,Maharashtra
+1,19,5000,14,0,Work at a nearby library,Madhya Pradesh
+1,46,5000,14,1,Work at a nearby library,Telangana
+1,27,5000,14,1,Work at a nearby library,Madhya Pradesh
+1,28,2000,14,1,Apply to these jobs:,Delhi
+0,18,12000,14,1,Tutor kids at home,Uttarakhand
+0,19,12000,14,1,Tutor kids at home,Uttar Pradesh
+0,20,2000,14,1,Apply to these jobs:,Delhi
+0,21,2000,14,1,Apply to these jobs:,Kashmir
+0,22,2000,14,1,Apply to these jobs:,Delhi
+0,23,2000,14,1,Apply to these jobs:,Maharashtra
+1,19,7000,14,1,Teach what you're good at!,Himachal Pradesh
+1,20,5000,14,1,Work at a nearby library,Himachal Pradesh
+1,21,5000,14,1,Work at a nearby library,Andhra Pradesh
+1,22,2000,14,1,Apply to these jobs:,Kashmir
+1,23,2000,14,1,Apply to these jobs:,Andhra Pradesh
+1,24,2000,14,1,Apply to these jobs:,Kashmir
+1,24,2000,14,1,Apply to these jobs:,Telangana
+1,23,2000,14,1,Apply to these jobs:,Maharashtra
+0,61,7000,14,3,Teach what you're good at!,Gujarat
+0,62,7000,14,3,Teach what you're good at!,Gujarat
+0,63,5000,14,3,Work at a nearby library,Madhya Pradesh
+0,38,2000,14,3,Apply to these jobs:,Rajasthan
+1,43,5000,14,3,Work at a nearby library,Gujarat
+1,44,2000,14,3,Apply to these jobs:,Kashmir
+1,44,2000,14,3,Apply to these jobs:,Andhra Pradesh
+1,60,7000,14,4,Teach what you're good at!,Andhra Pradesh
+0,22,5000,14,4,Work at a nearby library,Gujarat
+0,70,7000,14,6,Teach what you're good at!,Gujarat
+0,71,5000,14,6,Work at a nearby library,Uttar Pradesh
+0,72,5000,14,6,Work at a nearby library,Gujarat
+0,73,2000,14,6,Apply to these jobs:,Maharashtra
+0,46,2000,14,6,Apply to these jobs:,Meghalaya
+0,62,7000,14,8,Teach what you're good at!,Himachal Pradesh
+0,63,7000,14,8,Teach what you're good at!,Andhra Pradesh
+0,64,7000,14,8,Teach what you're good at!,West Bengal
+0,65,5000,14,8,Work at a nearby library,Andhra Pradesh
+0,66,5000,14,8,Work at a nearby library,Gujarat
+0,67,2000,14,8,Apply to these jobs:,Andhra Pradesh
+0,68,2000,14,8,Apply to these jobs:,Meghalaya
+0,69,2000,14,8,Apply to these jobs:,Gujarat
+0,55,7000,15,0,Teach what you're good at!,Uttar Pradesh
+1,47,5000,15,0,Work at a nearby library,Uttar Pradesh
+1,46,2000,15,0,Apply to these jobs:,Andhra Pradesh
+0,34,25000,15,2,Volunteer at local NGOs,Madhya Pradesh
+1,34,7000,15,2,Teach what you're good at!,Madhya Pradesh
+1,26,5000,15,2,Work at a nearby library,Andhra Pradesh
+0,47,7000,15,3,Teach what you're good at!,Andhra Pradesh
+0,46,7000,15,3,Teach what you're good at!,Maharashtra
+0,49,7000,15,3,Teach what you're good at!,Meghalaya
+0,53,7000,15,3,Teach what you're good at!,Andhra Pradesh
+0,55,5000,15,3,Work at a nearby library,Orissa
+0,61,5000,15,3,Work at a nearby library,Andhra Pradesh
+0,46,5000,15,3,Work at a nearby library,Maharashtra
+0,47,5000,15,3,Work at a nearby library,Andhra Pradesh
+0,78,5000,15,3,Work at a nearby library,Telangana
+0,52,5000,15,3,Work at a nearby library,Himachal Pradesh
+0,56,5000,15,3,Work at a nearby library,Gujarat
+0,57,25000,15,3,Volunteer at local NGOs,Andhra Pradesh
+0,58,15000,15,3,Volunteer at local NGOs/apply to these jobs:,Meghalaya
+0,59,2000,15,3,Apply to these jobs:,Himachal Pradesh
+0,60,2000,15,3,Apply to these jobs:,Orissa
+1,66,7000,15,3,Teach what you're good at!,Himachal Pradesh
+1,67,7000,15,3,Teach what you're good at!,Andhra Pradesh
+1,68,7000,15,3,Teach what you're good at!,Andhra Pradesh
+1,69,7000,15,3,Teach what you're good at!,Uttar Pradesh
+1,70,7000,15,3,Teach what you're good at!,Punjab
+1,71,5000,15,3,Work at a nearby library,Delhi
+1,72,5000,15,3,Work at a nearby library,Telangana
+1,73,5000,15,3,Work at a nearby library,Kashmir
+1,46,12000,15,3,Tutor kids at home,West Bengal
+0,41,7000,15,3,Teach what you're good at!,Andhra Pradesh
+0,42,7000,15,3,Teach what you're good at!,Punjab
+0,43,7000,15,3,Teach what you're good at!,Bihar
+0,44,7000,15,3,Teach what you're good at!,Maharashtra
+0,44,7000,15,3,Teach what you're good at!,Himachal Pradesh
+0,43,7000,15,3,Teach what you're good at!,Gujarat
+0,42,7000,15,3,Teach what you're good at!,Maharashtra
+0,41,7000,15,3,Teach what you're good at!,Gujarat
+0,40,7000,15,3,Teach what you're good at!,Gujarat
+0,39,7000,15,3,Teach what you're good at!,Maharashtra
+0,38,5000,15,3,Work at a nearby library,Andhra Pradesh
+0,37,5000,15,3,Work at a nearby library,Andhra Pradesh
+0,36,5000,15,3,Work at a nearby library,Gujarat
+0,35,5000,15,3,Work at a nearby library,Uttarakhand
+0,36,5000,15,3,Work at a nearby library,Uttar Pradesh
+0,37,5000,15,3,Work at a nearby library,Andhra Pradesh
+0,38,5000,15,3,Work at a nearby library,Maharashtra
+0,39,5000,15,3,Work at a nearby library,Gujarat
+0,40,5000,15,3,Work at a nearby library,Maharashtra
+0,41,5000,15,3,Work at a nearby library,Rajasthan
+0,42,5000,15,3,Work at a nearby library,Gujarat
+0,43,15000,15,3,Volunteer at local NGOs/apply to these jobs:,Orissa
+0,44,2000,15,3,Apply to these jobs:,Maharashtra
+0,44,2000,15,3,Apply to these jobs:,Himachal Pradesh
+0,43,2000,15,3,Apply to these jobs:,West Bengal
+0,42,2000,15,3,Apply to these jobs:,Maharashtra
+0,41,2000,15,3,Apply to these jobs:,Uttar Pradesh
+0,40,2000,15,3,Apply to these jobs:,Andhra Pradesh
+0,39,2000,15,3,Apply to these jobs:,Maharashtra
+1,39,7000,15,3,Teach what you're good at!,Maharashtra
+1,38,7000,15,3,Teach what you're good at!,Uttar Pradesh
+1,37,7000,15,3,Teach what you're good at!,Andhra Pradesh
+1,36,5000,15,3,Work at a nearby library,Andhra Pradesh
+1,35,5000,15,3,Work at a nearby library,Himachal Pradesh
+1,36,5000,15,3,Work at a nearby library,Maharashtra
+1,37,5000,15,3,Work at a nearby library,Kashmir
+1,38,12000,15,3,Tutor kids at home,Kashmir
+1,39,12000,15,3,Tutor kids at home,Delta Amacuro
+1,40,25000,15,3,Volunteer at local NGOs,Bihar
+1,41,25000,15,3,Volunteer at local NGOs,Telangana
+1,42,2000,15,3,Apply to these jobs:,Gujarat
+0,16,7000,15,3,Teach what you're good at!,Gujarat
+0,49,7000,15,4,Teach what you're good at!,Andhra Pradesh
+0,53,7000,15,4,Teach what you're good at!,Andhra Pradesh
+0,55,7000,15,4,Teach what you're good at!,Andhra Pradesh
+0,61,7000,15,4,Teach what you're good at!,Maharashtra
+0,46,7000,15,4,Teach what you're good at!,Gujarat
+0,47,7000,15,4,Teach what you're good at!,Madhya Pradesh
+0,78,7000,15,4,Teach what you're good at!,Uttar Pradesh
+0,52,7000,15,4,Teach what you're good at!,Maharashtra
+0,56,7000,15,4,Teach what you're good at!,Uttarakhand
+0,57,5000,15,4,Work at a nearby library,Uttar Pradesh
+0,58,5000,15,4,Work at a nearby library,Andhra Pradesh
+0,59,5000,15,4,Work at a nearby library,Punjab
+0,60,5000,15,4,Work at a nearby library,Telangana
+0,61,12000,15,4,Tutor kids at home,Uttar Pradesh
+0,62,12000,15,4,Tutor kids at home,Andhra Pradesh
+0,63,15000,15,4,Volunteer at local NGOs/apply to these jobs:,Himachal Pradesh
+0,64,2000,15,4,Apply to these jobs:,Delhi
+0,65,2000,15,4,Apply to these jobs:,Telangana
+0,66,2000,15,4,Apply to these jobs:,Gujarat
+1,46,7000,15,4,Teach what you're good at!,Andhra Pradesh
+1,49,7000,15,4,Teach what you're good at!,Andhra Pradesh
+1,53,7000,15,4,Teach what you're good at!,Meghalaya
+1,55,7000,15,4,Teach what you're good at!,Gujarat
+1,61,7000,15,4,Teach what you're good at!,Bihar
+1,46,5000,15,4,Work at a nearby library,Rajasthan
+1,47,5000,15,4,Work at a nearby library,Maharashtra
+1,78,5000,15,4,Work at a nearby library,Andhra Pradesh
+1,52,5000,15,4,Work at a nearby library,Andhra Pradesh
+1,56,25000,15,4,Volunteer at local NGOs,Punjab
+1,57,15000,15,4,Volunteer at local NGOs/apply to these jobs:,Andhra Pradesh
+1,58,15000,15,4,Volunteer at local NGOs/apply to these jobs:,Maharashtra
+1,59,15000,15,4,Volunteer at local NGOs/apply to these jobs:,Himachal Pradesh
+0,20,5000,15,4,Work at a nearby library,Himachal Pradesh
+0,21,25000,15,4,Volunteer at local NGOs,Madhya Pradesh
+1,19,25000,15,4,Volunteer at local NGOs,Madhya Pradesh
+1,18,25000,15,4,Volunteer at local NGOs,Himachal Pradesh
+1,17,25000,15,4,Volunteer at local NGOs,Madhya Pradesh
+1,16,25000,15,4,Volunteer at local NGOs,Madhya Pradesh
+1,46,5000,15,6,Work at a nearby library,Himachal Pradesh
+0,78,7000,15,8,Teach what you're good at!,Gujarat
+0,52,7000,15,8,Teach what you're good at!,Barinas
+0,56,5000,15,8,Work at a nearby library,Maharashtra
+0,57,5000,15,8,Work at a nearby library,Uttar Pradesh
+0,58,5000,15,8,Work at a nearby library,Himachal Pradesh
+0,59,5000,15,8,Work at a nearby library,Meghalaya
+0,60,12000,15,8,Tutor kids at home,Telangana
+0,61,2000,15,8,Apply to these jobs:,Maharashtra
+1,45,12000,16,0,Tutor kids at home,Himachal Pradesh
+1,17,5000,16,0,Work at a nearby library,Uttar Pradesh
+1,18,5000,16,0,Work at a nearby library,Andhra Pradesh
+1,26,5000,16,1,Work at a nearby library,West Bengal
+0,17,2000,16,1,Apply to these jobs:,Uttar Pradesh
+0,47,2000,16,8,Apply to these jobs:,Haryana
+0,38,7000,9,0,Teach what you're good at!,Maharashtra
+1,16,25000,9,5,Volunteer at local NGOs,Barinas
